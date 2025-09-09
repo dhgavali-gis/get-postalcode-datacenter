@@ -1,73 +1,54 @@
-# Welcome to your Lovable project
+# 📮 Postal Code Datacenter
 
-## Project info
+> Over 50+ countries verified postal code data with lat longs and administrative boundaries. 
 
-**URL**: https://lovable.dev/projects/0868cc16-186f-4a0b-aede-a1106b6c7595
+[![EXPLORE DATASET](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-blue?style=for-the-badge&logo=github)](https://dhgavali-gis.github.io/get-postalcode-datacenter/)
 
-## How can I edit this code?
 
-There are several ways of editing your application.
 
-**Use Lovable**
+## 🚀 DATASET Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0868cc16-186f-4a0b-aede-a1106b6c7595) and start prompting.
+- **ADMINISTRATIVE DATA** - Includes upto 3 levels of admin boundary and region names data
+- **Coordinates** - Includes Lat long to postal point or area
+- **POLYGON LAYERS** - Includes Geojson for admin areas. 
+- **TIMEZONE** - Includes timezone.
+- **LOCAL /REGIONAL LANGAUGE DATA** - Most of the countries dataset includes place / area names in regional / local language
 
-Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
+## 🛠️ DATA FORMAT
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- ** CSV
+- ** EXCEL
+- ** SQL TO UPLOAD DIRECLTY IN POSTGRES DATABASE
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+## 💼 Commercial Dataset Purchase
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+<div align="center">
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 🏢 Enterprise & Commercial Licensing
 
-# Step 3: Install the necessary dependencies.
-npm i
+For commercial use, enterprise licensing, or bulk data requirements, please contact our sales team:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+**📧 Email:** [geospatial@masterconcept.ai](mailto:geospatial@masterconcept.ai)  
+**🌐 Website:** [MasterConcept AI](https://masterconcept.ai)  
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### 📋 What's Included in Commercial License
 
-**Use GitHub Codespaces**
+- ✅ **Full Dataset Access** - Complete postal code database for 50+ countries
+- ✅ **Priority Support** - Dedicated technical support and assistance
+- ✅ **Custom Formats** - Data delivered in your preferred format
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+### 💰 Pricing & Licensing
 
-This project is built with:
+- **Volume Discounts** available for large datasets
+- **Custom Solutions** for specific requirements
+- **White-label Options** for resellers and partners
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+**Contact us for a personalized quote based on your specific needs.**
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/0868cc16-186f-4a0b-aede-a1106b6c7595) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+</div>

@@ -10,6 +10,7 @@ interface DatasetInfo {
   countryCode: string;
   postalCodeCount: number;
   region: string;
+  status: string;
   sampleFileName: string;
 }
 
@@ -20,6 +21,7 @@ const SAMPLE_DATASETS: DatasetInfo[] = [
     countryCode: "US",
     postalCodeCount: 41692,
     region: "North America",
+    status: "active",
     sampleFileName: "us-postal-codes-sample.csv"
   },
   {
@@ -28,6 +30,7 @@ const SAMPLE_DATASETS: DatasetInfo[] = [
     countryCode: "DE",
     postalCodeCount: 16475,
     region: "Europe",
+    status: "active",
     sampleFileName: "de-postal-codes-sample.csv"
   },
   {
@@ -36,6 +39,7 @@ const SAMPLE_DATASETS: DatasetInfo[] = [
     countryCode: "JP", 
     postalCodeCount: 15040,
     region: "Asia",
+    status: "active",
     sampleFileName: "jp-postal-codes-sample.csv"
   },
   {
@@ -43,7 +47,8 @@ const SAMPLE_DATASETS: DatasetInfo[] = [
     countryName: "United Kingdom",
     countryCode: "GB",
     postalCodeCount: 28851,
-    region: "Europe", 
+    region: "Europe",   
+    status: "active",
     sampleFileName: "gb-postal-codes-sample.csv"
   },
   {
@@ -52,6 +57,7 @@ const SAMPLE_DATASETS: DatasetInfo[] = [
     countryCode: "FR",
     postalCodeCount: 36684,
     region: "Europe",
+    status: "active",
     sampleFileName: "fr-postal-codes-sample.csv"
   },
   {
@@ -60,6 +66,7 @@ const SAMPLE_DATASETS: DatasetInfo[] = [
     countryCode: "CA",
     postalCodeCount: 876445,
     region: "North America",
+    status: "active",
     sampleFileName: "ca-postal-codes-sample.csv"
   }
 ];
