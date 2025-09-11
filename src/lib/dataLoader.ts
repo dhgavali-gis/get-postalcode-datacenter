@@ -9,7 +9,17 @@ import { DatasetInfo, DatasetCollection } from '@/types/dataset';
  * Data loader class with static methods for dataset operations
  */
 export class DataLoader {
-  private static readonly ASSETS_BASE_PATH = '/assets/samples';
+  private static readonly ASSETS_BASE_PATH = 'assets/samples';
+  
+  /**
+   * Gets the base path for assets, considering Vite's base configuration
+   * @returns The base path for assets
+   */
+  private static getBasePath(): string {
+    // In development, base is usually '/'
+    // In production with GitHub Pages, base is '/get-postalcode-datacenter/'
+    return import.meta.env.BASE_URL || '/';
+  }
 
   /**
    * Loads datasets from the JSON file
@@ -51,7 +61,10 @@ export class DataLoader {
    * @returns Full path to the asset file
    */
   static getAssetPath(filename: string): string {
-    return `${this.ASSETS_BASE_PATH}/${filename}`;
+    const basePath = this.getBasePath();
+    // Ensure basePath ends with '/' and ASSETS_BASE_PATH doesn't start with '/'
+    const normalizedBase = basePath.endsWith('/') ? basePath : `${basePath}/`;
+    return `${normalizedBase}${this.ASSETS_BASE_PATH}/${filename}`;
   }
 
   /**
