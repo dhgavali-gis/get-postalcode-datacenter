@@ -9,7 +9,7 @@ import { DatasetInfo, DatasetCollection } from '@/types/dataset';
  * Data loader class with static methods for dataset operations
  */
 export class DataLoader {
-  private static readonly ASSETS_BASE_PATH = 'public/assets/samples';
+  private static readonly ASSETS_BASE_PATH = '/assets/samples';
 
   /**
    * Loads datasets from the JSON file

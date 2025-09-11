@@ -350,10 +350,10 @@ export default function DatabaseCenter() {
                       <td className="px-6 py-4 text-sm text-muted-foreground font-mono">
                         {dataset.countryCode}
                       </td>
-                      <td className="px-6 py-4 text-sm text-foreground font-semibold">
-                        {/* {formatNumber(dataset.postalCodeCount)} */}
-                        -
-                      </td>
+                        <td className="px-6 py-4 text-sm text-foreground font-semibold">
+                          {/* {formatNumber(dataset.postalCodeCount)} */}
+                          -
+                        </td>
                       <td className="px-6 py-4 text-sm text-muted-foreground">
                         {dataset.region}
                       </td>
