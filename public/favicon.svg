@@ -1,0 +1,22 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="16" fill="#3b82f6"/>
+  
+  <!-- Mailbox icon -->
+  <g transform="translate(8, 6)">
+    <!-- Mailbox body -->
+    <rect x="2" y="8" width="12" height="8" rx="1" fill="white"/>
+    
+    <!-- Mailbox flag -->
+    <rect x="12" y="4" width="3" height="6" rx="0.5" fill="white"/>
+    
+    <!-- Mailbox post -->
+    <rect x="7.5" y="16" width="1" height="4" fill="white"/>
+    
+    <!-- Mail slot -->
+    <rect x="6" y="10" width="4" height="0.5" fill="#3b82f6"/>
+    
+    <!-- Numbers/text -->
+    <text x="8" y="14" text-anchor="middle" fill="#3b82f6" font-family="Arial, sans-serif" font-size="4" font-weight="bold">123</text>
+  </g>
+</svg>
