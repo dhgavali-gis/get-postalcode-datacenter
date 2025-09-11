@@ -1,0 +1,101 @@
+country_en,country_code,postal_code,region1_lc,region1_en,region2_lc,region2_en,region3_lc,region3_en,longitude,latitude,timezone,utc
+Ghana ,GH,A20013,Ashanti,Ashanti,Adansi North,Adansi North,New Ayaase,New Ayaase,-1.51210000000001,6.28880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A20073,Ashanti,Ashanti,Adansi North,Adansi North,Fomena,Fomena,-1.51210000000001,6.26380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A20099,Ashanti,Ashanti,Adansi North,Adansi North,Ayasi,Ayasi,-1.53710000000001,6.28880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A20123,Ashanti,Ashanti,Adansi North,Adansi North,Fomena,Fomena,-1.48710000000001,6.28880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A20188,Ashanti,Ashanti,Adansi North,Adansi North,Dompoase,Dompoase,-1.53710000000001,6.31380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A20623,Ashanti,Ashanti,Adansi North,Adansi North,Esiankwanta,Esiankwanta,-1.56210000000001,6.33880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A21342,Ashanti,Ashanti,Adansi North,Adansi North,Bobriase,Bobriase,-1.61210000000001,6.28880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A22285,Ashanti,Ashanti,Adansi North,Adansi North,Abadwum,Abadwum,-1.66210000000001,6.28880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A27797,Ashanti,Ashanti,Adansi North,Adansi North,Anyankyerem,Anyankyerem,-1.68710000000001,6.26380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A30001,Ashanti,Ashanti,Adansi South,Adansi South,New Edubiase,New Edubiase,-1.38710000000001,6.06380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A30161,Ashanti,Ashanti,Adansi South,Adansi South,Mpentemua,Mpentemua,-1.38710000000001,6.08880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A30172,Ashanti,Ashanti,Adansi South,Adansi South,Amudurasi,Amudurasi,-1.41210000000001,6.08880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A30431,Ashanti,Ashanti,Adansi South,Adansi South,Menang,Menang,-1.43710000000001,6.03880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A30554,Ashanti,Ashanti,Adansi South,Adansi South,Kramokrom,Kramokrom,-1.41210000000001,6.01380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A30565,Ashanti,Ashanti,Adansi South,Adansi South,Apeja,Apeja,-1.36210000000001,6.01380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A30603,Ashanti,Ashanti,Adansi South,Adansi South,Aworoso,Aworoso,-1.38710000000001,6.11380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A30649,Ashanti,Ashanti,Adansi South,Adansi South,Obuobi,Obuobi,-1.33710000000001,6.03880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A31034,Ashanti,Ashanti,Adansi South,Adansi South,Onyan,Onyan,-1.46210000000001,6.01380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A31069,Ashanti,Ashanti,Adansi South,Adansi South,Kramokrom,Kramokrom,-1.41210000000001,5.98880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A31090,Ashanti,Ashanti,Adansi South,Adansi South,Apagya,Apagya,-1.36210000000001,5.98880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A31100,Ashanti,Ashanti,Adansi South,Adansi South,Wuruyiye,Wuruyiye,-1.33710000000001,5.98880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A31147,Ashanti,Ashanti,Adansi South,Adansi South,Breku,Breku,-1.33710000000001,6.13880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A31694,Ashanti,Ashanti,Adansi South,Adansi South,Anwona,Anwona,-1.48710000000001,6.06380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A31705,Ashanti,Ashanti,Adansi South,Adansi South,Onyan,Onyan,-1.48710000000001,6.01380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A31880,Ashanti,Ashanti,Adansi South,Adansi South,Nkranfo Nkwanta,Nkranfo Nkwanta,-1.41210000000001,5.96380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A31885,Ashanti,Ashanti,Adansi South,Adansi South,Kojo Mankrong,Kojo Mankrong,-1.38710000000001,5.96380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A31896,Ashanti,Ashanti,Adansi South,Adansi South,Quansahkrom,Quansahkrom,-1.33710000000001,5.96380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A31940,Ashanti,Ashanti,Adansi South,Adansi South,Afiaso,Afiaso,-1.28710000000001,6.11380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A32073,Ashanti,Ashanti,Adansi South,Adansi South,Kwame Adu,Kwame Adu,-1.28710000000001,6.03880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A32529,Ashanti,Ashanti,Adansi South,Adansi South,Anwona,Anwona,-1.51210000000001,6.03880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A32556,Ashanti,Ashanti,Adansi South,Adansi South,Ayaa Mankata,Ayaa Mankata,-1.51210000000001,5.93880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A32584,Ashanti,Ashanti,Adansi South,Adansi South,Adansi,Adansi,-1.38710000000001,5.93880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A32595,Ashanti,Ashanti,Adansi South,Adansi South,Quansahkrom,Quansahkrom,-1.33710000000001,5.93880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A32606,Ashanti,Ashanti,Adansi South,Adansi South,Amenaso,Amenaso,-1.28710000000001,5.93880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A32776,Ashanti,Ashanti,Adansi South,Adansi South,Subriso,Subriso,-1.26210000000001,6.06380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A32897,Ashanti,Ashanti,Adansi South,Adansi South,Nsata Mangoase,Nsata Mangoase,-1.26210000000001,6.01380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A32903,Ashanti,Ashanti,Adansi South,Adansi South,Nsata Aboabo,Nsata Aboabo,-1.26210000000001,6.03880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A33186,Ashanti,Ashanti,Adansi South,Adansi South,Yaw Owusukrom,Yaw Owusukrom,-1.53710000000001,6.01380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A33197,Ashanti,Ashanti,Adansi South,Adansi South,Mprakyire,Mprakyire,-1.53710000000001,5.96380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A33335,Ashanti,Ashanti,Adansi South,Adansi South,Bepoase,Bepoase,-1.46210000000001,5.91380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A33359,Ashanti,Ashanti,Adansi South,Adansi South,Dzobokrom,Dzobokrom,-1.26210000000001,5.91380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A33392,Ashanti,Ashanti,Adansi South,Adansi South,Tweapease,Tweapease,-1.23710000000001,6.06380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A33479,Ashanti,Ashanti,Adansi South,Adansi South,Birim Aboye,Birim Aboye,-1.23710000000001,5.96380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A33846,Ashanti,Ashanti,Adansi South,Adansi South,Adansi Kenya,Adansi Kenya,-1.51210000000001,5.88880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A33867,Ashanti,Ashanti,Adansi South,Adansi South,Hwidiem,Hwidiem,-1.46210000000001,5.88880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A34441,Ashanti,Ashanti,Adansi South,Adansi South,Kuhyea,Kuhyea,-1.46210000000001,5.86380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A35528,Ashanti,Ashanti,Adansi South,Adansi South,Agravie,Agravie,-1.48710000000001,5.86380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A40032,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Asiwa,Asiwa,-1.33710000000001,6.43880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A40255,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Nkwatapong,Nkwatapong,-1.36210000000001,6.46380000000003,Africa/Accra,UTC +0.0
+Ghana ,GH,A40396,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Adeito,Adeito,-1.38710000000001,6.43880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A40467,Ashanti,Ashanti,Bosome Freho,Bosome Freho,No.2,No.2,-1.33710000000001,6.36380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A40704,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Asiwa,Asiwa,-1.41210000000001,6.41380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A40715,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Minti,Minti,-1.41210000000001,6.36380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A40782,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Amamoso,Amamoso,-1.41210000000001,6.33880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A40788,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Amormoso,Amormoso,-1.38710000000001,6.33880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A40804,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Tebeso,Tebeso,-1.31210000000001,6.33880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A41185,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Korkyikrom,Korkyikrom,-1.36210000000001,6.31380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A41196,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Tebeso,Tebeso,-1.31210000000001,6.31380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A41207,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Anwiaso,Anwiaso,-1.26210000000001,6.31380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A41332,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Nyinatiase,Nyinatiase,-1.4587,6.504,Africa/Accra,UTC +0.0
+Ghana ,GH,A41334,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Esaase,Esaase,-1.4587,6.496,Africa/Accra,UTC +0.0
+Ghana ,GH,A41336,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Esaase,Esaase,-1.4587,6.488,Africa/Accra,UTC +0.0
+Ghana ,GH,A41395,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Adumasa,Adumasa,-1.46210000000001,6.48880000000003,Africa/Accra,UTC +0.0
+Ghana ,GH,A41450,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Gyapaadu,Gyapaadu,-1.4667,6.504,Africa/Accra,UTC +0.0
+Ghana ,GH,A41452,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Gyapaadu,Gyapaadu,-1.4667,6.496,Africa/Accra,UTC +0.0
+Ghana ,GH,A41454,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Adumasa,Adumasa,-1.4667,6.488,Africa/Accra,UTC +0.0
+Ghana ,GH,A41456,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Adumasa,Adumasa,-1.4667,6.48,Africa/Accra,UTC +0.0
+Ghana ,GH,A41480,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Korkyikrom,Korkyikrom,-1.36210000000001,6.28880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A41491,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Tebeso,Tebeso,-1.31210000000001,6.28880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A41564,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Gyapaadu,Gyapaadu,-1.4747,6.496,Africa/Accra,UTC +0.0
+Ghana ,GH,A41566,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Adumasa,Adumasa,-1.4747,6.488,Africa/Accra,UTC +0.0
+Ghana ,GH,A41568,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Adumasa,Adumasa,-1.4747,6.48,Africa/Accra,UTC +0.0
+Ghana ,GH,A41569,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Kusiase,Kusiase,-1.4747,6.472,Africa/Accra,UTC +0.0
+Ghana ,GH,A41652,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Gyapaadu,Gyapaadu,-1.4827,6.488,Africa/Accra,UTC +0.0
+Ghana ,GH,A41654,Ashanti,Ashanti,Bosome Freho,Bosome Freho,BoagyA-Etwereso,BoagyA-Etwereso,-1.4827,6.48,Africa/Accra,UTC +0.0
+Ghana ,GH,A41655,Ashanti,Ashanti,Bosome Freho,Bosome Freho,BoagyA-Etwereso,BoagyA-Etwereso,-1.4827,6.472,Africa/Accra,UTC +0.0
+Ghana ,GH,A41747,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Kwaku Mensakrom,Kwaku Mensakrom,-1.28710000000001,6.26380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A41752,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Nsokote,Nsokote,-1.26210000000001,6.26380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A41832,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Fereso No.1,Fereso No.1,-1.38710000000001,6.28880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A42216,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Anomawobi,Anomawobi,-1.26210000000001,6.18880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A42222,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Yawbre,Yawbre,-1.23710000000001,6.18880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A42380,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Aframuase,Aframuase,-1.21210000000001,6.16380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A42493,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Afiaso,Afiaso,-1.28710000000001,6.13880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A42504,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Huntado,Huntado,-1.23710000000001,6.13880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A42509,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Adanse,Adanse,-1.21210000000001,6.13880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A42803,Ashanti,Ashanti,Bosome Freho,Bosome Freho,Oboasiwa,Oboasiwa,-1.33710000000001,6.23880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A50419,Ashanti,Ashanti,Adansi Asokwa,Adansi Asokwa,Hwiremuasi,Hwiremuasi,-1.48710000000001,6.23880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A50504,Ashanti,Ashanti,Adansi Asokwa,Adansi Asokwa,Hwiremuasi,Hwiremuasi,-1.46210000000001,6.23880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A50823,Ashanti,Ashanti,Adansi Asokwa,Adansi Asokwa,Nyamebekyere,Nyamebekyere,-1.53710000000001,6.21380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A50828,Ashanti,Ashanti,Adansi Asokwa,Adansi Asokwa,Chirebroso,Chirebroso,-1.51210000000001,6.21380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A50941,Ashanti,Ashanti,Adansi Asokwa,Adansi Asokwa,Bodwesango,Bodwesango,-1.43710000000001,6.28880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A51005,Ashanti,Ashanti,Adansi Asokwa,Adansi Asokwa,Konsimwaa,Konsimwaa,-1.43710000000001,6.21380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A51289,Ashanti,Ashanti,Adansi Asokwa,Adansi Asokwa,Nyamebekyere,Nyamebekyere,-1.53710000000001,6.18880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A51305,Ashanti,Ashanti,Adansi Asokwa,Adansi Asokwa,Nkwansirem,Nkwansirem,-1.46210000000001,6.18880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A51311,Ashanti,Ashanti,Adansi Asokwa,Adansi Asokwa,Konsimwaa,Konsimwaa,-1.43710000000001,6.18880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A51479,Ashanti,Ashanti,Adansi Asokwa,Adansi Asokwa,Pipiso,Pipiso,-1.41210000000001,6.23880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A51702,Ashanti,Ashanti,Adansi Asokwa,Adansi Asokwa,Konsimwaa,Konsimwaa,-1.43710000000001,6.16380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A51708,Ashanti,Ashanti,Adansi Asokwa,Adansi Asokwa,Asirifikrom,Asirifikrom,-1.41210000000001,6.16380000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A51935,Ashanti,Ashanti,Adansi Asokwa,Adansi Asokwa,Mem,Mem,-1.26210000000001,6.23880000000002,Africa/Accra,UTC +0.0
+Ghana ,GH,A51941,Ashanti,Ashanti,Adansi Asokwa,Adansi Asokwa,Nsokote,Nsokote,-1.23710000000001,6.23880000000002,Africa/Accra,UTC +0.0

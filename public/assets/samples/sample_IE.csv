@@ -1,0 +1,101 @@
+postal_code,latitude,longitude,place_name,region_1_en,region_2_en,region_3_en,country_en,country_code,timezone,utc
+F12,53.7939,-8.9196,Knock,Connacht,Mayo,Mayo,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+F23,53.85,-9.3,Castlebar,Connacht,Mayo,Mayo,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+F26,54.1167,-9.1667,Ballina,Connacht,Mayo,Mayo,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+F28,53.8,-9.5167,Westport,Connacht,Mayo,Mayo,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+F31,53.6333,-9.2333,Ballinrobe,Connacht,Mayo,Mayo,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+F35,53.7667,-8.7667,Ballyhaunis,Connacht,Mayo,Mayo,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+F42,53.6333,-8.1833,Roscommon,Connacht,Roscommon,Roscommon,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+F45,53.7667,-8.5,Castlerea,Connacht,Roscommon,Roscommon,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+F52,53.9667,-8.3,Boyle,Connacht,Roscommon,Roscommon,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+F56,54.0833,-8.5167,Ballymote,Connacht,Sligo,Sligo,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+F91,54.2697,-8.4694,Sligo,Connacht,Sligo,Sligo,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+H53,53.3275,-8.2194,Ballinasloe,Connacht,Galway,Galway,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+H54,53.5167,-8.85,Tuam,Connacht,Galway,Galway,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+H62,53.1969,-8.5669,Loughrea,Connacht,Galway,Galway,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+H65,53.2964,-8.7431,Athenry,Connacht,Galway,Galway,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+H71,53.4891,-10.0191,Clifden,Connacht,Galway,Galway,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+H91,53.2719,-9.0489,Galway,Connacht,Galway,Galway,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+N41,53.9469,-8.09,Carrick On Shannon,Connacht,Leitrim,Leitrim,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+A41,53.5195,-6.2667,Ballyboughal,Leinster,Dublin,Fingal,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+A42,53.5661,-6.3856,Garristown,Leinster,Dublin,Fingal,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+A45,53.5253,-6.3156,Oldtown,Leinster,Dublin,Fingal,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+A63,53.1408,-6.0631,Greystones,Leinster,Wicklow,Wicklow,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+A67,52.975,-6.0494,Wicklow,Leinster,Wicklow,Wicklow,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+A82,53.7264,-6.8792,Kells,Leinster,Meath,Meath,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+A83,53.4142,-6.8323,Enfield,Leinster,Meath,Meath,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+A84,53.5116,-6.3982,Ashbourne,Leinster,Meath,Meath,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+A85,53.5125,-6.54,Dunshaughlin,Leinster,Meath,Meath,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+A86,53.4,-6.4667,Dunboyne,Leinster,Meath,Meath,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+A91,54.0,-6.4167,Dundalk,Leinster,Louth,Louth,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+A92,53.7189,-6.3478,Drogheda,Leinster,Louth,Louth,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+A94,53.3015,-6.1778,Blackrock,Leinster,Dublin,Dun Laoghaire-Rathdown,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+A96,53.294,-6.1359,Dun Laoghaire,Leinster,Dublin,Dun Laoghaire-Rathdown,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+A98,53.2028,-6.0983,Bray,Leinster,Wicklow,Wicklow,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+C15,53.555,-6.7917,Trim,Leinster,Meath,Meath,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D01,53.354,-6.2545,Dublin 1,Leinster,Dublin,Dublin City,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D02,53.34,-6.2543,Dublin 2,Leinster,Dublin,Dublin City,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D03,53.3645,-6.2378,Dublin 3,Leinster,Dublin,Dublin City,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D04,53.3334,-6.2335,Dublin 4,Leinster,Dublin,Dublin City,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D05,53.3842,-6.1921,Dublin 5,Leinster,Dublin,Dublin City,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D06,53.3088,-6.2631,Dublin 6,Leinster,Dublin,Dublin City,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D07,53.3615,-6.2918,Dublin 7,Leinster,Dublin,Dublin City,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D08,53.3346,-6.2733,Dublin 8,Leinster,Dublin,Dublin City,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D09,53.3818,-6.2465,Dublin 9,Leinster,Dublin,Dublin City,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D10,53.3409,-6.3545,Dublin 10,Leinster,Dublin,Dublin City,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D11,53.3899,-6.293,Dublin 11,Leinster,Dublin,Dublin City,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D12,53.322,-6.3165,Dublin 12,Leinster,Dublin,Dublin City,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D13,53.3946,-6.1495,Dublin 13,Leinster,Dublin,Fingal,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D14,53.296,-6.2593,Dublin 14,Leinster,Dublin,Dun Laoghaire-Rathdown,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D15,53.3832,-6.4165,Dublin 15,Leinster,Dublin,Fingal,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D16,53.3419,-6.279,Dublin 16,Leinster,Dublin,Dublin City,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D17,53.4006,-6.2058,Dublin 17,Leinster,Dublin,Dublin City,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D18,53.2469,-6.1774,Dublin 18,Leinster,Dublin,Dun Laoghaire-Rathdown,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D20,53.3518,-6.3693,Dublin 20,Leinster,Dublin,South Dublin,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D22,53.3275,-6.4006,Dublin 22,Leinster,Dublin,South Dublin,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D24,53.2851,-6.3713,Dublin 24,Leinster,Dublin,South Dublin,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+D6W,53.3087,-6.3012,Dublin 6W,Leinster,Dublin,Dublin City,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+K32,53.6128,-6.1819,Balbriggan,Leinster,Dublin,Fingal,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+K34,53.5828,-6.1083,Skerries,Leinster,Dublin,Fingal,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+K36,53.4508,-6.1544,Malahide,Leinster,Dublin,Fingal,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+K45,53.5274,-6.1642,Lusk,Leinster,Dublin,Fingal,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+K56,53.5242,-6.105,Rush,Leinster,Dublin,Fingal,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+K67,53.4597,-6.2181,Swords,Leinster,Dublin,Fingal,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+K78,53.3574,-6.4486,Lucan,Leinster,Dublin,South Dublin,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+N37,53.4228,-7.9372,Athlone,Leinster,Westmeath,Westmeath,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+N39,53.7254,-7.7982,Longford,Leinster,Longford,Longford,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+N91,53.5333,-7.35,Mullingar,Leinster,Westmeath,Westmeath,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+P14,53.0153,-6.8106,Crookstown,Leinster,Kildare,Kildare,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+R14,52.9914,-6.9803,Athy,Leinster,Kildare,Kildare,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+R21,52.7003,-6.9618,Bagenalstown,Leinster,Carlow,Carlow,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+R32,53.0344,-7.2998,Portlaoise,Leinster,Laois,Laois,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+R35,53.2739,-7.4889,Tullamore,Leinster,Offaly,Offaly,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+R42,53.0914,-7.9133,Birr,Leinster,Offaly,Offaly,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+R45,53.3453,-7.0497,Edenderry,Leinster,Offaly,Offaly,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+R51,53.1561,-6.9144,Kildare,Leinster,Kildare,Kildare,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+R56,53.1469,-6.8304,Curragh,Leinster,Kildare,Kildare,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+R93,52.8408,-6.9261,Carlow,Leinster,Carlow,Carlow,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+R95,52.6542,-7.2522,Kilkenny,Leinster,Kilkenny,Kilkenny,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+W12,53.1819,-6.7967,Newbridge,Leinster,Kildare,Kildare,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+W23,53.385,-6.5936,Maynooth,Leinster,Kildare,Kildare,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+W34,53.1406,-7.0664,Monasterevin,Leinster,Kildare,Kildare,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+W91,53.2158,-6.6669,Naas,Leinster,Kildare,Kildare,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+Y14,52.7931,-6.1414,Arklow,Leinster,Wicklow,Wicklow,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+Y21,52.5008,-6.5578,Enniscorthy,Leinster,Wexford,Wexford,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+Y25,52.6747,-6.2925,Gorey,Leinster,Wexford,Wexford,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+Y34,52.3967,-6.9367,New Ross,Leinster,Wexford,Wexford,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+Y35,52.3342,-6.4575,Wexford,Leinster,Wexford,Wexford,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+E21,52.3769,-7.9217,Cahir,Munster,Tipperary,Tipperary,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+E25,52.5158,-7.8856,Cashel,Munster,Tipperary,Tipperary,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+E32,52.3492,-7.4131,Carrick on Suir,Munster,Tipperary,Tipperary,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+E34,52.4733,-8.1558,Tipperary,Munster,Tipperary,Tipperary,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+E41,52.6819,-7.8022,Thurles,Munster,Tipperary,Tipperary,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+E45,52.8619,-8.1967,Nenagh,Munster,Tipperary,Tipperary,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+E53,52.9511,-7.8017,Roscrea,Munster,Tipperary,Tipperary,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+E91,52.355,-7.7039,Clonmel,Munster,Tipperary,Tipperary,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+P12,51.9,-8.95,Macroom,Munster,Cork,Cork,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+P17,51.7075,-8.5306,Kinsale,Munster,Cork,Cork,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+P24,51.8572,-8.2992,Cobh,Munster,Cork,Cork,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+P25,51.9153,-8.1805,Midleton,Munster,Cork,Cork,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+P31,51.8833,-8.5833,Ballincollig,Munster,Cork,Cork,Republic of Ireland,IE,Europe/Dublin,UTC +0.0
+P32,51.9833,-8.8333,Rylane,Munster,Cork,Cork,Republic of Ireland,IE,Europe/Dublin,UTC +0.0

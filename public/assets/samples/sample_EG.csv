@@ -1,0 +1,78 @@
+postal_code,latitude,longitude,place_name,region_1_en,region_2_en,region_3_en,country_name,country_code,timezone,utc
+42111,31.120935,32.182525,Port Said,Port Said,Qesm El Ganob,El Ganob,Egypt,EG,Africa/Cairo,UTC +2.0
+84711,26.5891915,33.4285574,Red Sea,Safaga,Qesm Safaga,El Nasr - Km 85 Safaga Road - Qena,Egypt,EG,Africa/Cairo,UTC +2.0
+83729,25.900308,32.777964,Qena,Qous,Markaz Qous,El Meari,Egypt,EG,Africa/Cairo,UTC +2.0
+11774,30.08768,31.309,Cairo,Cairo,Qesm Heliopolis,Manshiat El Bakry,Egypt,EG,Africa/Cairo,UTC +2.0
+22728,30.65553,29.883153,El Behera,New El Nobaria,Qesm Gharb El Nobaria - El Kharegeen Village,Hussein Abo El Yousr,Egypt,EG,Africa/Cairo,UTC +2.0
+41111,30.483177,32.17859,El Ismailia,El Ismailia,Desert of Abo Sower Center,Desert of Abo Sower Center,Egypt,EG,Africa/Cairo,UTC +2.0
+32881,30.463318,30.904878,El Menoufia,Menouf,Markaz Menouf,Monshat Ghamrin,Egypt,EG,Africa/Cairo,UTC +2.0
+11371,30.048137,31.312747,Cairo,Cairo,Qesm 2nd Nasser City,Nady El Saka El Hadid,Egypt,EG,Africa/Cairo,UTC +2.0
+51714,28.06794,27.736709,Giza,El Wahat El Bahariya,Desert of El Wahat El Bahariya,,Egypt,EG,Africa/Cairo,UTC +2.0
+22762,30.6392519,30.4306418,El Behera,El Delengat,Markaz El Delengat,El Bostan Qebly El Nobaria,Egypt,EG,Africa/Cairo,UTC +2.0
+46511,28.275356,30.741228,El Menia,Samalot,Markaz Samalot,Dair Gabal El Teir,Egypt,EG,Africa/Cairo,UTC +2.0
+13713,30.342832,31.1832321,Qalyubia,Tokh,Markaz Tokh,Kfour Abed,Egypt,EG,Africa/Cairo,UTC +2.0
+63753,29.404518,30.744965,El Faiyum,Snors,Markaz Snors,Monshat El Dakam,Egypt,EG,Africa/Cairo,UTC +2.0
+22841,30.895328,30.502476,El Behera,El Delengat,Markaz El Delengat,El Hagar El Mahrok,Egypt,EG,Africa/Cairo,UTC +2.0
+63723,29.244877,30.679986,El Faiyum,Atsa,Markaz Atsa,Abo Gandir,Egypt,EG,Africa/Cairo,UTC +2.0
+32851,30.298864,30.990498,El Menoufia,Ashmoun,Markaz Ashmoun,Ashmoun,Egypt,EG,Africa/Cairo,UTC +2.0
+51111,30.941805,26.925651,Matrouh,Marsa Matrouh,Desert of Qesm Marsa Matrouh,,Egypt,EG,Africa/Cairo,UTC +2.0
+81521,22.9706155,32.4879258,Aswan,Aswan,Desert of Abo Sembel Center,Desert of Abo Sembel Center,Egypt,EG,Africa/Cairo,UTC +2.0
+81514,24.0679597,32.8317832,Aswan,Aswan,Markaz Aswan,West of Aswan,Egypt,EG,Africa/Cairo,UTC +2.0
+11713,29.9149097,31.3303929,Cairo,15th of May,Ain Helwan,El Sheyakha El Ola,Egypt,EG,Africa/Cairo,UTC +2.0
+22847,30.597384,30.663558,El Behera,Badr,Markaz Badr,Omar Ibn El Khatab,Egypt,EG,Africa/Cairo,UTC +2.0
+51718,30.862492,28.838632,Matrouh,El Alameen,Qesm El Alameen,El Alamein,Egypt,EG,Africa/Cairo,UTC +2.0
+32871,30.457949,30.954884,El Menoufia,Qesm Sers El Laian,Qesm Sers El Laian,Sers El Laian,Egypt,EG,Africa/Cairo,UTC +2.0
+41611,30.843056,32.229406,El Ismailia,El Qantra Gharb,Markaz El Qantra Gharb,El Akharsah,Egypt,EG,Africa/Cairo,UTC +2.0
+31722,30.967147,30.9636788,El Gharbia,Qotor,Markaz Qotor,Qutur,Egypt,EG,Africa/Cairo,UTC +2.0
+61732,28.088504,30.718463,El Menia,El Menia,Markaz El Menia,Telt,Egypt,EG,Africa/Cairo,UTC +2.0
+31111,30.808974,30.982933,El Gharbia,Tanta,Markaz Tanta,Kafr Esam,Egypt,EG,Africa/Cairo,UTC +2.0
+84712,23.9207277,34.9446398,Red Sea,Marsa Alem,Desert of Marsa Alam District,,Egypt,EG,Africa/Cairo,UTC +2.0
+31813,31.013212,31.132527,El Gharbia,El Mahalet El Kobra,Markaz El Mahalet El Kobra,Sindsis,Egypt,EG,Africa/Cairo,UTC +2.0
+12311,30.036031,31.202343,Giza,Giza,Qesm El Doki,El Doki,Egypt,EG,Africa/Cairo,UTC +2.0
+71748,26.924123,31.400473,Asyut,Sadfa,Markaz Sadfa,Keman Said El Sharky and Tema,Egypt,EG,Africa/Cairo,UTC +2.0
+81517,23.98904,32.846551,Aswan,Aswan,Qesm 1st Aswan,El Khazan Gharb,Egypt,EG,Africa/Cairo,UTC +2.0
+63738,29.129631,30.701924,El Faiyum,Atsa,Markaz Atsa,El Gharq,Egypt,EG,Africa/Cairo,UTC +2.0
+34111,31.4241334,31.8082515,Domiat,Domiat,Qesm 2nd Domiat,Sheyakhet Rabea,Egypt,EG,Africa/Cairo,UTC +2.0
+44741,30.6569348,31.575419,Sharqia,Hahia,Markaz Hahia,Hahia,Egypt,EG,Africa/Cairo,UTC +2.0
+32854,30.597693,30.869648,El Menoufia,El Shohada,Markaz El Shohada,El Shohada,Egypt,EG,Africa/Cairo,UTC +2.0
+82711,26.550554,31.772827,Sohag,Sohag,Markaz Sohag,Bendar El Karmania,Egypt,EG,Africa/Cairo,UTC +2.0
+82716,26.554956,31.682465,Sohag,Sohag,Markaz Sohag,El Mahamdah El Bahariya,Egypt,EG,Africa/Cairo,UTC +2.0
+13734,30.4465855,31.203927,Qalyubia,Banha,Markaz Banha,Menyet El Sebaa,Egypt,EG,Africa/Cairo,UTC +2.0
+62631,29.090848,30.928693,Beni Suef,Ahnasia,Markaz Ahnasia,Monshat El Badini,Egypt,EG,Africa/Cairo,UTC +2.0
+51732,30.836386,28.474462,Matrouh,El Dabaa,Qesm El Dabaa,Sawany Samalous,Egypt,EG,Africa/Cairo,UTC +2.0
+21535,31.072979,29.764278,Alexandria,Alexandria,Qesm 1st El Amria,El Agamy El Qeblia - Um Zaghuo,Egypt,EG,Africa/Cairo,UTC +2.0
+41613,30.472941,31.964666,El Ismailia,El Tal El Kabir,Markaz El Tal El Kabir,El Wadi El Akhdar,Egypt,EG,Africa/Cairo,UTC +2.0
+81624,23.6341655,33.3591568,Aswan,Aswan,Desert of Abo Sembel Center,Desert of Abo Sembel Center,Egypt,EG,Africa/Cairo,UTC +2.0
+33616,31.150127,30.709081,Kafr El Shikh,Desok,Markaz Desok,Abyouqa,Egypt,EG,Africa/Cairo,UTC +2.0
+51717,28.7847261,29.2833375,Giza,El Wahat El Bahariya,Desert of El Wahat El Bahariya,,Egypt,EG,Africa/Cairo,UTC +2.0
+13758,30.2755698,31.3400559,Qalyubia,El Khanka,Markaz El Khanka,Arab El Eleykat,Egypt,EG,Africa/Cairo,UTC +2.0
+61664,28.300568,30.642037,El Menia,Samalot,Markaz Samalot,Shoushah,Egypt,EG,Africa/Cairo,UTC +2.0
+63617,29.295241,30.487906,El Faiyum,El Faiyum,Desert of El Faiyum Governorate,Desert of El Faiyum Governorate,Egypt,EG,Africa/Cairo,UTC +2.0
+44663,30.749661,31.874132,Sharqia,Fakous,Markaz Fakous,Akiad El Bahariya,Egypt,EG,Africa/Cairo,UTC +2.0
+12351,30.029164,31.18143,Giza,Giza,Qesm Bolak El Dakror,Zenein,Egypt,EG,Africa/Cairo,UTC +2.0
+82714,26.5819252,31.7442657,Sohag,Akhmeem,Markaz Akhmeem,Akhmim,Egypt,EG,Africa/Cairo,UTC +2.0
+51744,30.7552462,27.8881927,Matrouh,El Dabaa,Desert of Qesm El Dabaa,,Egypt,EG,Africa/Cairo,UTC +2.0
+33743,31.344774,30.831487,Kafr El Shikh,Sedi Salem,Markaz Sedi Salem,Damro,Egypt,EG,Africa/Cairo,UTC +2.0
+22854,30.436823,30.477948,El Menoufia,El Sadat City,Desert of El Sadat City,Desert of El Sadat City,Egypt,EG,Africa/Cairo,UTC +2.0
+43111,29.647147,32.333097,Suez,Ataka - El Sokhna,Qesm Ataka,Ghebet El Bous and Dair Odeib,Egypt,EG,Africa/Cairo,UTC +2.0
+62111,29.07379,31.05948,Beni Suef,Beni Suef,Markaz Beni Suef,Monshat Heidar Yakan,Egypt,EG,Africa/Cairo,UTC +2.0
+71747,27.03317,31.294811,Asyut,Abo Teeg,Markaz Abo Teeg,Beni Samea,Egypt,EG,Africa/Cairo,UTC +2.0
+23714,30.945431,29.772983,Alexandria,Alexandria,Qesm 2nd El Amria,Mariot Sector,Egypt,EG,Africa/Cairo,UTC +2.0
+83111,26.095412,32.731284,Qena,Qena,Desert of Qena Governorate,,Egypt,EG,Africa/Cairo,UTC +2.0
+62615,28.86641,30.875228,Beni Suef,El Fashn,Markaz El Fashn,Absog,Egypt,EG,Africa/Cairo,UTC +2.0
+44654,31.1700443,32.2015686,Port Said,Port Said,Qesm El Ganob,El Ganob,Egypt,EG,Africa/Cairo,UTC +2.0
+41617,30.395809,32.316313,El Ismailia,Fayed,Markaz Fayed,Abo Soltan,Egypt,EG,Africa/Cairo,UTC +2.0
+71711,27.335453,31.624087,Asyut,Asyut,Desert of Asyut Governorate,Desert of Asyut Governorate,Egypt,EG,Africa/Cairo,UTC +2.0
+12945,30.041678,31.159078,Giza,Giza,Markaz Kerdasa,Nahia,Egypt,EG,Africa/Cairo,UTC +2.0
+45615,29.595913,33.719979,South Sinai,Ras Sedr,Tagamoat Sakania Ras Sedr,,Egypt,EG,Africa/Cairo,UTC +2.0
+35732,31.151307,31.806477,El Daqahlia,Meet Selseel,Markaz Meet Selseel,Mit Salsil,Egypt,EG,Africa/Cairo,UTC +2.0
+63722,29.379866,30.683501,El Faiyum,Ibsheway,Markaz Ibsheway,Ibsheway,Egypt,EG,Africa/Cairo,UTC +2.0
+83911,25.533685,32.87478,Luxor,Luxor,Desert of Luxor Governorate,Desert of Luxor Governorate,Egypt,EG,Africa/Cairo,UTC +2.0
+71723,27.06737,31.36721,Asyut,Sahel Selim,Markaz Sahel Selim,El Shamaia,Egypt,EG,Africa/Cairo,UTC +2.0
+44671,30.772952,31.671132,Sharqia,Abo Kabir,Markaz Abo Kabir,Nazlet Khaial,Egypt,EG,Africa/Cairo,UTC +2.0
+34611,31.276869,31.774771,Domiat,Farskor,Markaz Farskor,Hegaga,Egypt,EG,Africa/Cairo,UTC +2.0
+12952,29.617153,31.31437,Giza,El Saf,Markaz El Saf,Arab El Hesar,Egypt,EG,Africa/Cairo,UTC +2.0
+45111,30.720825,32.801628,North Sinai,Romanah,Desert of Qesm Romana,,Egypt,EG,Africa/Cairo,UTC +2.0
+12556,29.7561417,30.8737269,Giza,Giza,Desert of Giza Governorate,Desert of Giza Governorate,Egypt,EG,Africa/Cairo,UTC +2.0
+83724,26.209823,32.924539,Qena,Qena,Desert of Qena Governorate,,Egypt,EG,Africa/Cairo,UTC +2.0
+63737,29.201576,30.789552,El Faiyum,Atsa,Markaz Atsa,Atsa,Egypt,EG,Africa/Cairo,UTC +2.0

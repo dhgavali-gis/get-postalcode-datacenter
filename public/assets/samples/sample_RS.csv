@@ -1,0 +1,101 @@
+postal_code,latitude,longitude,country_name,country_name_en,region_1_lc,region_1_en,region_2_lc,region_2_en,region_3_lc,region_3_en,region_4_lc,region_4_en,region_5_lc,region_5_en,country_en,country_code,timezone,utc
+11000,44.804,20.4651,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Савски венац,Savski Venac,,,Београд,Belgrade,Serbia,RS,Europe/Belgrade,UTC +1.0
+11031,44.8249,20.4331,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Земун,Zemun,,,Београд,Belgrade,Serbia,RS,Europe/Belgrade,UTC +1.0
+11080,44.8458,20.4012,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Земун,Zemun,,,Земун,Zemun,Serbia,RS,Europe/Belgrade,UTC +1.0
+11130,44.7542,20.5541,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Гроцка,Grocka,,,Калуђерица,Kaluđerica,Serbia,RS,Europe/Belgrade,UTC +1.0
+11194,44.6848,20.4499,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Чукарица,Čukarica,,,Рушањ,Rušanj,Serbia,RS,Europe/Belgrade,UTC +1.0
+11211,44.8697,20.4541,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Палилула,Palilula,,,Борча,Borča,Serbia,RS,Europe/Belgrade,UTC +1.0
+11212,44.8835,20.5334,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Палилула,Palilula,,,Овча,Ovča,Serbia,RS,Europe/Belgrade,UTC +1.0
+11213,44.9429,20.4255,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Палилула,Palilula,,,Падинска Скела,Padinska Skela,Serbia,RS,Europe/Belgrade,UTC +1.0
+11215,44.8077,20.5718,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Палилула,Palilula,,,Сланци,Slanci,Serbia,RS,Europe/Belgrade,UTC +1.0
+11223,44.7063,20.5177,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Вождовац,Voždovac,,,Бели Поток,Beli Potok,Serbia,RS,Europe/Belgrade,UTC +1.0
+11224,44.6685,20.5933,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Гроцка,Grocka,,,Врчин,Vrčin,Serbia,RS,Europe/Belgrade,UTC +1.0
+11225,44.6981,20.5552,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Вождовац,Voždovac,,,Зуце,Zuce,Serbia,RS,Europe/Belgrade,UTC +1.0
+11226,44.6954,20.483,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Вождовац,Voždovac,,,Пиносава,Pinosava,Serbia,RS,Europe/Belgrade,UTC +1.0
+11232,44.6386,20.5214,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Вождовац,Voždovac,,,Рипањ,Ripanj,Serbia,RS,Europe/Belgrade,UTC +1.0
+11233,44.5722,20.5622,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Сопот,Sopot,,,Раља,Ralja,Serbia,RS,Europe/Belgrade,UTC +1.0
+11235,44.5633,20.6543,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Сопот,Sopot,,,Мали Пожаревац,Mali Požarevac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11251,44.7277,20.3185,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Чукарица,Čukarica,,,Остружница,Ostružnica,Serbia,RS,Europe/Belgrade,UTC +1.0
+11253,44.6765,20.3923,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Чукарица,Čukarica,,,Сремчица,Sremčica,Serbia,RS,Europe/Belgrade,UTC +1.0
+11260,44.6781,20.3047,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Чукарица,Čukarica,,,Умка,Umka,Serbia,RS,Europe/Belgrade,UTC +1.0
+11261,44.6383,20.306,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Обреновац,Obrenovac,,,Мала Моштаница,Mala Moštanica,Serbia,RS,Europe/Belgrade,UTC +1.0
+11262,44.6649,20.3539,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Чукарица,Čukarica,,,Велика Моштаница,Velika Moštanica,Serbia,RS,Europe/Belgrade,UTC +1.0
+11271,44.7931,20.2803,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Сурчин,Surčin,,,Сурчин,Surčin,Serbia,RS,Europe/Belgrade,UTC +1.0
+11272,44.8263,20.2249,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Сурчин,Surčin,,,Добановци,Dobanovci,Serbia,RS,Europe/Belgrade,UTC +1.0
+11275,44.7235,20.2235,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Сурчин,Surčin,,,Бољевци,Boljevci,Serbia,RS,Europe/Belgrade,UTC +1.0
+11276,44.7537,20.2601,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Сурчин,Surčin,,,Јаково,Jakovo,Serbia,RS,Europe/Belgrade,UTC +1.0
+11277,44.8763,20.1876,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Земун,Zemun,,,Угриновци,Ugrinovci,Serbia,RS,Europe/Belgrade,UTC +1.0
+11279,44.7798,20.2058,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Сурчин,Surčin,,,Бечмен,Bečmen,Serbia,RS,Europe/Belgrade,UTC +1.0
+11280,44.7174,20.1605,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Сурчин,Surčin,,,Прогар,Progar,Serbia,RS,Europe/Belgrade,UTC +1.0
+11283,44.7174,20.1605,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Сурчин,Surčin,,,Алтина,Altina,Serbia,RS,Europe/Belgrade,UTC +1.0
+11300,44.6644,20.9276,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедерево,Smederevo,,,Смедерево,Smederevo,Serbia,RS,Europe/Belgrade,UTC +1.0
+11306,44.6715,20.7165,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Гроцка,Grocka,,,Гроцка,Grocka,Serbia,RS,Europe/Belgrade,UTC +1.0
+11307,44.7265,20.6064,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Гроцка,Grocka,,,Болећ,Boleč,Serbia,RS,Europe/Belgrade,UTC +1.0
+11308,44.6336,20.695,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Гроцка,Grocka,,,Бегаљица,Begaljica,Serbia,RS,Europe/Belgrade,UTC +1.0
+11309,44.7312,20.5757,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Гроцка,Grocka,,,Лештане,Leštane,Serbia,RS,Europe/Belgrade,UTC +1.0
+11310,44.641,20.9999,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедерево,Smederevo,,,Липе,Lipe,Serbia,RS,Europe/Belgrade,UTC +1.0
+11311,44.6273,20.968,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедерево,Smederevo,,,Радинач,Radinac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11312,44.5438,20.9732,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедерево,Smederevo,,,Михајловац,Mihajlovac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11313,44.5862,21.0074,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедерево,Smederevo,,,Мала Крсна,Mala Krsna,Serbia,RS,Europe/Belgrade,UTC +1.0
+11314,44.5461,21.0548,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедерево,Smederevo,,,Осипаоница,Osipaonica,Serbia,RS,Europe/Belgrade,UTC +1.0
+11315,44.4905,21.0816,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедерево,Smederevo,,,Сараорци,Saraorci,Serbia,RS,Europe/Belgrade,UTC +1.0
+11316,44.4547,21.0041,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедеревска Паланка,Smederevska Palanka,,,Голобок,Golobok,Serbia,RS,Europe/Belgrade,UTC +1.0
+11317,44.4673,21.1015,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Велика Плана,Velika Plana,,,Лозовик,Lozovik,Serbia,RS,Europe/Belgrade,UTC +1.0
+11318,44.4411,21.1108,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Велика Плана,Velika Plana,,,Милошевац,Miloševac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11319,44.4093,21.0476,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Велика Плана,Velika Plana,,,Крњево,Krnjevo,Serbia,RS,Europe/Belgrade,UTC +1.0
+11320,44.3339,21.0768,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Велика Плана,Velika Plana,,,Велика Плана,Velika Plana,Serbia,RS,Europe/Belgrade,UTC +1.0
+11321,44.5231,21.0708,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедерево,Smederevo,,,Лугавчина,Lugavčina,Serbia,RS,Europe/Belgrade,UTC +1.0
+11322,44.5646,21.0331,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедерево,Smederevo,,,Скобаљ,Skobalj,Serbia,RS,Europe/Belgrade,UTC +1.0
+11323,44.3711,21.0879,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Велика Плана,Velika Plana,,,Велико Орашје,Veliko Orašje,Serbia,RS,Europe/Belgrade,UTC +1.0
+11324,44.2943,21.0887,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Велика Плана,Velika Plana,,,Старо Село,Staro Selo,Serbia,RS,Europe/Belgrade,UTC +1.0
+11325,44.2388,21.1071,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Велика Плана,Velika Plana,,,Марковац,Markovac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11328,44.6096,20.8526,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедерево,Smederevo,,,Водањ,Vodanj,Serbia,RS,Europe/Belgrade,UTC +1.0
+11329,44.601,20.9945,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедерево,Smederevo,,,Враново,Vranovo,Serbia,RS,Europe/Belgrade,UTC +1.0
+11351,44.7626,20.6216,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Гроцка,Grocka,,,Винча,Vinča,Serbia,RS,Europe/Belgrade,UTC +1.0
+11400,44.4386,20.6992,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Младеновац,Mladenovac,,,Младеновац,Mladenovac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11405,44.4092,20.6893,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Младеновац,Mladenovac,,,Међулужје,Međulužje,Serbia,RS,Europe/Belgrade,UTC +1.0
+11406,44.5003,20.6873,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Младеновац,Mladenovac,,,Влашка,Vlaška,Serbia,RS,Europe/Belgrade,UTC +1.0
+11407,44.4953,20.873,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедеревска Паланка,Smederevska Palanka,,,Селевац,Selevac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11408,44.4784,20.8052,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Младеновац,Mladenovac,,,Велика Крсна,Velika Krsna,Serbia,RS,Europe/Belgrade,UTC +1.0
+11409,44.44,20.74,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Младеновац,Mladenovac,,,Ковачевац,Kovačevac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11411,44.3537,20.8298,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедеревска Паланка,Smederevska Palanka,,,Ратари,Ratari,Serbia,RS,Europe/Belgrade,UTC +1.0
+11412,44.3774,20.7294,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Младеновац,Mladenovac,,,Јагњило,Jagnjilo,Serbia,RS,Europe/Belgrade,UTC +1.0
+11413,44.4179,20.6279,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Младеновац,Mladenovac,,,Пружатовац,Pružatovac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11414,44.4264,20.5803,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Младеновац,Mladenovac,,,Велика Иванча,Velika Ivanča,Serbia,RS,Europe/Belgrade,UTC +1.0
+11415,44.451,20.6201,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Младеновац,Mladenovac,,,Кораћица,Koraćica,Serbia,RS,Europe/Belgrade,UTC +1.0
+11420,44.3655,20.9588,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедеревска Паланка,Smederevska Palanka,,,Смедеревска Паланка,Smederevska Palanka,Serbia,RS,Europe/Belgrade,UTC +1.0
+11423,44.4331,20.8797,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедеревска Паланка,Smederevska Palanka,,,Азања,Azanja,Serbia,RS,Europe/Belgrade,UTC +1.0
+11425,44.4002,20.805,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедеревска Паланка,Smederevska Palanka,,,Кусадак,Kusadak,Serbia,RS,Europe/Belgrade,UTC +1.0
+11426,44.6231,20.3692,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Барајево,Barajevo,,,Мељак,Meljak,Serbia,RS,Europe/Belgrade,UTC +1.0
+11427,44.6024,20.3287,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Барајево,Barajevo,,,Вранић,Vranić,Serbia,RS,Europe/Belgrade,UTC +1.0
+11430,44.5836,20.7342,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Гроцка,Grocka,,,Умчари,Umčari,Serbia,RS,Europe/Belgrade,UTC +1.0
+11431,44.5843,20.9014,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедерево,Smederevo,,,Колари,Kolari,Serbia,RS,Europe/Belgrade,UTC +1.0
+11432,44.5461,20.8316,Србија,Serbia,Централна Србија,Central Serbia,Подунавски округ,Podunavlje District,Смедерево,Smederevo,,,Друговац,Drugovac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11433,44.5414,20.7045,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Младеновац,Mladenovac,,,Шепшин,Šepšin,Serbia,RS,Europe/Belgrade,UTC +1.0
+11450,44.5197,20.5736,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Сопот,Sopot,,,Сопот,Sopot,Serbia,RS,Europe/Belgrade,UTC +1.0
+11453,44.492,20.5135,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Сопот,Sopot,,,Рогача,Rogača,Serbia,RS,Europe/Belgrade,UTC +1.0
+11454,44.4644,20.4533,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Сопот,Sopot,,,Сибница,Sibnica,Serbia,RS,Europe/Belgrade,UTC +1.0
+11460,44.6089,20.4547,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Барајево,Barajevo,,,Барајево,Barajevo,Serbia,RS,Europe/Belgrade,UTC +1.0
+11461,44.5153,20.406,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Барајево,Barajevo,,,Бељина,Beljina,Serbia,RS,Europe/Belgrade,UTC +1.0
+11462,44.5394,20.3505,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Барајево,Barajevo,,,Велики Борак,Veliki Borak,Serbia,RS,Europe/Belgrade,UTC +1.0
+11467,44.5545,20.4037,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Барајево,Barajevo,,,Банатски Двор,Banatski Dvor,Serbia,RS,Europe/Belgrade,UTC +1.0
+11500,44.6549,20.2002,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Обреновац,Obrenovac,,,Обреновац,Obrenovac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11504,44.6507,20.2594,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Обреновац,Obrenovac,,,Барич,Barič,Serbia,RS,Europe/Belgrade,UTC +1.0
+11505,44.6825,20.2025,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Обреновац,Obrenovac,,,Забрежје,Zabrežje,Serbia,RS,Europe/Belgrade,UTC +1.0
+11506,44.5958,20.2217,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Обреновац,Obrenovac,,,Дражевац,Draževac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11507,44.5748,20.1348,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Обреновац,Obrenovac,,,Стублине,Stubline,Serbia,RS,Europe/Belgrade,UTC +1.0
+11508,44.6005,20.0854,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Обреновац,Obrenovac,,,Грабовац,Grabovac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11509,44.682,20.0576,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Обреновац,Obrenovac,,,Скела,Skela,Serbia,RS,Europe/Belgrade,UTC +1.0
+11550,44.3853,20.2557,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Лазаревац,Lazarevac,,,Лазаревац,Lazarevac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11560,44.4434,20.282,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Лазаревац,Lazarevac,,,Вреоци,Vreoci,Serbia,RS,Europe/Belgrade,UTC +1.0
+11561,44.2983,20.2631,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Лазаревац,Lazarevac,,,Дудовица,Dudovica,Serbia,RS,Europe/Belgrade,UTC +1.0
+11562,44.4496,20.3492,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Лазаревац,Lazarevac,,,Јунковац,Junkovac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11563,44.4722,20.2907,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Лазаревац,Lazarevac,,,Велики Црљени,Veliki Crljeni,Serbia,RS,Europe/Belgrade,UTC +1.0
+11564,44.5128,20.295,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Лазаревац,Lazarevac,,,Степојевац,Stepojevac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11565,44.3986,20.3689,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Лазаревац,Lazarevac,,,Барошевац,Baroševac,Serbia,RS,Europe/Belgrade,UTC +1.0
+11566,44.3736,20.4123,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Лазаревац,Lazarevac,,,Рудовци,Rudovci,Serbia,RS,Europe/Belgrade,UTC +1.0
+11567,44.4374,20.4176,Србија,Serbia,Централна Србија,Central Serbia,Град Београд,Belgrade City,Лазаревац,Lazarevac,,,Миросаљци,Mirosaljci,Serbia,RS,Europe/Belgrade,UTC +1.0
+12000,44.6213,21.1878,Србија,Serbia,Централна Србија,Central Serbia,Браничевски округ,Braničevo District,Пожаревац,Požarevac,,,Пожаревац,Požarevac,Serbia,RS,Europe/Belgrade,UTC +1.0
+12206,44.69,21.2282,Србија,Serbia,Централна Србија,Central Serbia,Браничевски округ,Braničevo District,Пожаревац,Požarevac,,,Брадарац,Bradarac,Serbia,RS,Europe/Belgrade,UTC +1.0
+12207,44.6964,21.0802,Србија,Serbia,Централна Србија,Central Serbia,Браничевски округ,Braničevo District,Пожаревац,Požarevac,,,Дубравица,Dubravica,Serbia,RS,Europe/Belgrade,UTC +1.0
+12208,44.735,21.1956,Србија,Serbia,Централна Србија,Central Serbia,Браничевски округ,Braničevo District,Пожаревац,Požarevac,,,Костолац,Kostolac,Serbia,RS,Europe/Belgrade,UTC +1.0

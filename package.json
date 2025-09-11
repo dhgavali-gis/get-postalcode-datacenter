@@ -12,7 +12,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "generate-samples": "npx tsx scripts/generateSampleCSVs.ts"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",

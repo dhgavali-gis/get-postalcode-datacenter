@@ -1,0 +1,101 @@
+country_lc,country_en,country_code,postal_code,region1_lc,region1_en,region2_lc,region2_en,region3_lc,region3_en,timezone,utc,latitude,longitude
+Jordan,Jordan,JO,11100,,,محافظة العاصمة,Amman,القصور الملكية,Al Qusur Al Malakiah, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11101,,,محافظة العاصمة,Amman,بيت البرلمان,Parliament House, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11104,,,محافظة العاصمة,Amman,مطار الملكة علياء,Queen Alia Airport, Asia/Amma,UTC +3.0 ,31.7216982,35.9964563
+Jordan,Jordan,JO,11115,,,محافظة العاصمة,Amman,المهاجرين,Al Muhajireen, Asia/Amma,UTC +3.0 ,31.9463103,35.9251545
+Jordan,Jordan,JO,11118,,,محافظة العاصمة,Amman,وسط مدينة عمان,Amman City Center, Asia/Amma,UTC +3.0 ,31.9800739,35.8366624
+Jordan,Jordan,JO,11118,,,محافظة العاصمة,Amman,جبل القلعة,Jabal Al Qalaa, Asia/Amma,UTC +3.0 ,31.9526634,35.9354185
+Jordan,Jordan,JO,11120,,,محافظة العاصمة,Amman,الهاشمي الجنوبي,Al Hashmi Al Janoubi, Asia/Amma,UTC +3.0 ,31.9620247,35.9528258
+Jordan,Jordan,JO,11121,,,محافظة العاصمة,Amman,جبل الحسين,Jabal AlHussein, Asia/Amma,UTC +3.0 ,31.9674446,35.9177805
+Jordan,Jordan,JO,11122,,,محافظة العاصمة,Amman,جبل القصور,Jabal Al Qusur, Asia/Amma,UTC +3.0 ,31.9543163,35.9365046
+Jordan,Jordan,JO,11122,,,محافظة العاصمة,Amman,وادي الحداده,Wadi Al Hidadah, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11123,,,محافظة العاصمة,Amman,الهاشمي الشمالي,Al Hashmi Al Shamali, Asia/Amma,UTC +3.0 ,31.9701589,35.9589407
+Jordan,Jordan,JO,11131,,,محافظة العاصمة,Amman,المحطة,Al Mahattah, Asia/Amma,UTC +3.0 ,31.991481,36.0030164
+Jordan,Jordan,JO,11131,,,محافظة العاصمة,Amman,رغدان,Raghadan, Asia/Amma,UTC +3.0 ,31.9801045,35.954005
+Jordan,Jordan,JO,11133,,,محافظة العاصمة,Amman,د. الأميرة علياء,D. Al Ameerah Alia, Asia/Amma,UTC +3.0 ,31.7227291,35.9864691
+Jordan,Jordan,JO,11133,,,محافظة العاصمة,Amman,حي التقوى,Hai Al Taqwa, Asia/Amma,UTC +3.0 ,31.8658253,35.9796273
+Jordan,Jordan,JO,11134,,,محافظة العاصمة,Amman,عين غزال,Ain Ghazal, Asia/Amma,UTC +3.0 ,31.9987934,35.9802504
+Jordan,Jordan,JO,11134,,,محافظة العاصمة,Amman,ماركا الشمالية,Marka Al Shamaliyah, Asia/Amma,UTC +3.0 ,31.977931,35.98033
+Jordan,Jordan,JO,11136,,,محافظة العاصمة,Amman,إسكان اليوبيل,Eskan Al Yubeel, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11140,,,محافظة العاصمة,Amman,جبل الناصر,Jabal Al Naser, Asia/Amma,UTC +3.0 ,31.9605156,35.9639208
+Jordan,Jordan,JO,11141,,,محافظة العاصمة,Amman,جبل التاج,Jabal Al Taj, Asia/Amma,UTC +3.0 ,31.9493508,35.9502445
+Jordan,Jordan,JO,11142,,,محافظة العاصمة,Amman,حي هملان,Hai Hamlan, Asia/Amma,UTC +3.0 ,31.9868635,36.0173125
+Jordan,Jordan,JO,11143,,,محافظة العاصمة,Amman,حي المنارة,Hai Al Manara, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11145,,,محافظة العاصمة,Amman,جبل الجوفة,Jabal Al-jofah, Asia/Amma,UTC +3.0 ,31.9535927,35.9516023
+Jordan,Jordan,JO,11151,,,محافظة العاصمة,Amman,اليرموك,Al Yarmouk, Asia/Amma,UTC +3.0 ,31.9402521,35.9510388
+Jordan,Jordan,JO,11151,,,محافظة العاصمة,Amman,جبل الأشرفية,Jabal Al Ashrafiyeh, Asia/Amma,UTC +3.0 ,31.961373,35.9534241
+Jordan,Jordan,JO,11151,,,محافظة العاصمة,Amman,وادي السرور,Wadi Al Suroor, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11152,,,محافظة العاصمة,Amman,الوحدات,Alwehdat, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11152,,,محافظة العاصمة,Amman,أم نوارة,Um Nowarah, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11161,,,محافظة العاصمة,Amman,جبل النظيف,Jabal Al Natheef, Asia/Amma,UTC +3.0 ,31.9543163,35.9365046
+Jordan,Jordan,JO,11162,,,محافظة العاصمة,Amman,الزهور,Azzuhour, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11162,,,محافظة العاصمة,Amman,حي الشعيلية,Hai Al Sheailiyah, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11163,,,محافظة العاصمة,Amman,رأس العين,Ras Al-Ain, Asia/Amma,UTC +3.0 ,31.9394742,35.9259604
+Jordan,Jordan,JO,11171,,,محافظة العاصمة,Amman,جبل الأخضر,Jabal Al Akhdar, Asia/Amma,UTC +3.0 ,31.9406282,35.916778
+Jordan,Jordan,JO,11171,,,محافظة العاصمة,Amman,حي نزال,Hai Nazzal, Asia/Amma,UTC +3.0 ,31.9321542,35.9120142
+Jordan,Jordan,JO,11180,,,محافظة العاصمة,Amman,إنتركونتيننتال الأردن,Intercontinental Jordan, Asia/Amma,UTC +3.0 ,31.953314,35.913148
+Jordan,Jordan,JO,11180,,,محافظة العاصمة,Amman,جبل عمان,Jabal Amman, Asia/Amma,UTC +3.0 ,31.9515589,35.9156256
+Jordan,Jordan,JO,11181,,,محافظة العاصمة,Amman,المهاجرين,Al Mohajrean, Asia/Amma,UTC +3.0 ,31.9481153,35.910627
+Jordan,Jordan,JO,11181,,,محافظة العاصمة,Amman,الرجوم,Al Rjoum, Asia/Amma,UTC +3.0 ,31.9522138,35.9277006
+Jordan,Jordan,JO,11181,,,محافظة العاصمة,Amman,دير غبار,Deir Ghbar, Asia/Amma,UTC +3.0 ,31.9378686,35.8559066
+Jordan,Jordan,JO,11183,,,محافظة العاصمة,Amman,عبدون الجنوبي,Abdoun Al Janobi, Asia/Amma,UTC +3.0 ,31.9410388,35.885213
+Jordan,Jordan,JO,11183,,,محافظة العاصمة,Amman,عبدون الشمالي,Abdoun Alshamali, Asia/Amma,UTC +3.0 ,31.9538023,35.8837433
+Jordan,Jordan,JO,11183,,,محافظة العاصمة,Amman,زهران,Zahran, Asia/Amma,UTC +3.0 ,31.956222,35.8960632
+Jordan,Jordan,JO,11185,,,محافظة العاصمة,Amman,الروابي,Al Rawabi, Asia/Amma,UTC +3.0 ,31.965691,35.855686
+Jordan,Jordan,JO,11185,,,محافظة العاصمة,Amman,الديار,Aldeyar, Asia/Amma,UTC +3.0 ,31.943128,35.8624441
+Jordan,Jordan,JO,11185,,,محافظة العاصمة,Amman,الصويفية,Sweifiyeh, Asia/Amma,UTC +3.0 ,31.9548429,35.8642572
+Jordan,Jordan,JO,11185,,,محافظة العاصمة,Amman,أم اذينة الغربي,Um Uthaynah Algharbi, Asia/Amma,UTC +3.0 ,31.9688096,35.8787543
+Jordan,Jordan,JO,11185,,,محافظة العاصمة,Amman,أم اذينة الشرقي,Um Uthaynah Alsharqi, Asia/Amma,UTC +3.0 ,31.9688096,35.8787543
+Jordan,Jordan,JO,11190,,,محافظة العاصمة,Amman,العبدلي,Al Abdali, Asia/Amma,UTC +3.0 ,31.9660489,35.916511
+Jordan,Jordan,JO,11191,,,محافظة العاصمة,Amman,جبل الويبدة,Jabel Al Webdeh, Asia/Amma,UTC +3.0 ,31.9558443,35.9279374
+Jordan,Jordan,JO,11192,,,محافظة العاصمة,Amman,جبل الحسين الغربي,Jabal Al Hussein Al Gharbi, Asia/Amma,UTC +3.0 ,31.9674446,35.9177805
+Jordan,Jordan,JO,11193,,,محافظة العاصمة,Amman,مجمع بنك الإسكان,Housing Bank Complex, Asia/Amma,UTC +3.0 ,31.9711431,35.9069785
+Jordan,Jordan,JO,11194,,,محافظة العاصمة,Amman,شميساني,Shmeisani, Asia/Amma,UTC +3.0 ,31.970443,35.8996969
+Jordan,Jordan,JO,11195,,,محافظة العاصمة,Amman,المدينة الرياضية,Al Madinah Al Riyadiah, Asia/Amma,UTC +3.0 ,31.9453712,35.9283594
+Jordan,Jordan,JO,11195,,,محافظة العاصمة,Amman,د. الأمير حسن,D. Al Amir Hasan, Asia/Amma,UTC +3.0 ,31.958796,35.9727803
+Jordan,Jordan,JO,11195,,,محافظة العاصمة,Amman,ضاحية الحسين,Dahyet Al-Hussein, Asia/Amma,UTC +3.0 ,31.9694007,35.8810146
+Jordan,Jordan,JO,11196,,,محافظة العاصمة,Amman,المدينة الرياضية,Al Madinah Al Riyadiah, Asia/Amma,UTC +3.0 ,31.9453712,35.9283594
+Jordan,Jordan,JO,11196,,,محافظة العاصمة,Amman,ضاحية الروضة,Dahyet Al Rawda, Asia/Amma,UTC +3.0 ,31.995131,35.892331
+Jordan,Jordan,JO,11511,,,محافظة العاصمة,Amman,سحاب,Sahab, Asia/Amma,UTC +3.0 ,31.8695165,36.0063448
+Jordan,Jordan,JO,11512,,,محافظة العاصمة,Amman,مدينة سحاب الصناعية,Sahab Industrial City, Asia/Amma,UTC +3.0 ,31.8504698,36.019645
+Jordan,Jordan,JO,11562,,,محافظة العاصمة,Amman,راجم الشامي,Rajem Al Shami, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11591,,,محافظة العاصمة,Amman,الرقيم,Al Raqim, Asia/Amma,UTC +3.0 ,31.8923841,35.9862926
+Jordan,Jordan,JO,11592,,,محافظة العاصمة,Amman,أبو علندا,Abu Alanda, Asia/Amma,UTC +3.0 ,31.9028195,35.962599
+Jordan,Jordan,JO,11592,,,محافظة العاصمة,Amman,العروبة,Al Ouroubah, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11592,,,محافظة العاصمة,Amman,القويسمة,Al Qweismeh, Asia/Amma,UTC +3.0 ,31.9160349,35.9532195
+Jordan,Jordan,JO,11592,,,محافظة العاصمة,Amman,جويدة,Jweideh, Asia/Amma,UTC +3.0 ,31.8872767,35.9415034
+Jordan,Jordan,JO,11592,,,محافظة العاصمة,Amman,رقيم,Raqim, Asia/Amma,UTC +3.0 ,31.8923841,35.9862926
+Jordan,Jordan,JO,11593,,,محافظة العاصمة,Amman,أم الحيران,Um Al Hiran, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11610,,,محافظة العاصمة,Amman,اليادودة,Al Yadudah, Asia/Amma,UTC +3.0 ,31.8512389,35.9167683
+Jordan,Jordan,JO,11610,,,محافظة العاصمة,Amman,غمدان,Ghamdan, Asia/Amma,UTC +3.0 ,31.9796774,35.884954
+Jordan,Jordan,JO,11621,,,محافظة العاصمة,Amman,خربة السوق,Khirbet As Soq, Asia/Amma,UTC +3.0 ,31.9522516,35.9288713
+Jordan,Jordan,JO,11623,,,محافظة العاصمة,Amman,البنيات الشمالي,Al Bnyat Al Shamali, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11623,,,محافظة العاصمة,Amman,الحرية,Al Horreyya, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11623,,,محافظة العاصمة,Amman,الحسنية,Al Husnyah, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11623,,,محافظة العاصمة,Amman,البنيات الجنوبي,Albnyat Aljanobi, Asia/Amma,UTC +3.0 ,31.8870339,35.8796838
+Jordan,Jordan,JO,11623,,,محافظة العاصمة,Amman,الفرقان,Alforqan, Asia/Amma,UTC +3.0 ,31.8805496,35.8950485
+Jordan,Jordan,JO,11623,,,محافظة العاصمة,Amman,الياسمين,Alyasmeen, Asia/Amma,UTC +3.0 ,31.9162479,35.8919637
+Jordan,Jordan,JO,11623,,,محافظة العاصمة,Amman,مقابلين,Mqabalain, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11623,,,محافظة العاصمة,Amman,أم الكندوم,Um al Kundum, Asia/Amma,UTC +3.0 ,31.873726,35.883263
+Jordan,Jordan,JO,11636,,,محافظة العاصمة,Amman,مدينة التجمعات الصناعية,Al Tajamouat Industrial City, Asia/Amma,UTC +3.0 ,31.866515,35.978401
+Jordan,Jordan,JO,11652,,,محافظة العاصمة,Amman,اللبن,Al Lubban, Asia/Amma,UTC +3.0 ,31.8239531,35.961683
+Jordan,Jordan,JO,11652,,,محافظة العاصمة,Amman,التنيب,At Tunayb, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11710,,,محافظة العاصمة,Amman,الشهيد الجنوبي,Al Shaheed Al Janobi, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11710,,,محافظة العاصمة,Amman,الشهيد الشمالي,Al Shaheed Al Shamali, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11711,,,محافظة العاصمة,Amman,مركز ناعور,Na'ur Center, Asia/Amma,UTC +3.0 ,31.870472,35.8205154
+Jordan,Jordan,JO,11731,,,محافظة العاصمة,Amman,إسكان علياء,Alia Housing, Asia/Amma,UTC +3.0 ,31.7227291,35.9864691
+Jordan,Jordan,JO,11731,,,محافظة العاصمة,Amman,طبربور,Tabarbour, Asia/Amma,UTC +3.0 ,32.0028488,35.9403639
+Jordan,Jordan,JO,11732,,,محافظة العاصمة,Amman,الرواق,Al Rewaq, Asia/Amma,UTC +3.0 ,31.9916642,35.9142638
+Jordan,Jordan,JO,11732,,,محافظة العاصمة,Amman,مرج الحمام,Marj Al Hamam, Asia/Amma,UTC +3.0 ,31.9028857,35.8465232
+Jordan,Jordan,JO,11733,,,محافظة العاصمة,Amman,د. الأمير حمزة,D. Al Ameer Hamzah, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11810,,,محافظة العاصمة,Amman,الرباحية,Al Rabaheya, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776
+Jordan,Jordan,JO,11810,,,محافظة العاصمة,Amman,بلال,Belal, Asia/Amma,UTC +3.0 ,31.963153,35.7898607
+Jordan,Jordan,JO,11810,,,محافظة العاصمة,Amman,وادي السير,Wadi as Sir, Asia/Amma,UTC +3.0 ,31.9566347,35.8472427
+Jordan,Jordan,JO,11814,,,محافظة العاصمة,Amman,بيادر وادي السير,Bayader Wadi Al Seer, Asia/Amma,UTC +3.0 ,31.9529717,35.8202638
+Jordan,Jordan,JO,11817,,,محافظة العاصمة,Amman,الجندويل,Al Jandweal, Asia/Amma,UTC +3.0 ,31.9620609,35.8402813
+Jordan,Jordan,JO,11817,,,محافظة العاصمة,Amman,الكرسي,Al Kursi, Asia/Amma,UTC +3.0 ,31.9645466,35.8266649
+Jordan,Jordan,JO,11817,,,محافظة العاصمة,Amman,الرونق,Al Rawnaq, Asia/Amma,UTC +3.0 ,31.9488126,35.8401359
+Jordan,Jordan,JO,11821,,,محافظة العاصمة,Amman,أم السماق,Um Al Summaq, Asia/Amma,UTC +3.0 ,31.9816856,35.8434314
+Jordan,Jordan,JO,11821,,,محافظة العاصمة,Amman,أم السماق وخلدا,Um Al Summaq & Khalda, Asia/Amma,UTC +3.0 ,31.9901273,35.8451072
+Jordan,Jordan,JO,11822,,,محافظة العاصمة,Amman,المدينة الطبية,Al Madenah Altebyah, Asia/Amma,UTC +3.0 ,31.9453712,35.9283594
+Jordan,Jordan,JO,11822,,,محافظة العاصمة,Amman,الرحمانية,Al Rahmaniah, Asia/Amma,UTC +3.0 ,31.9543786,35.9105776

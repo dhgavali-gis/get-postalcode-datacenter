@@ -1,0 +1,101 @@
+postal_code,latitude,longitude,place_name,region_1_en,region_2_en,region_3_en,country_en,country_code,timezone,utc
+1000,46.0511,14.5051,Ljubljana - dostava,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1001,46.0511,14.5051,Ljubljana - poštni predali,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1210,46.0964,14.4697,Ljubljana Šentvid,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1211,46.168,14.5217,Ljubljana-Šmartno,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1215,46.1333,14.4333,Medvode,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1216,46.1642,14.4325,Smlednik,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1217,46.1899,14.4949,Vodice,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1218,46.2048,14.5384,Komenda,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1219,46.2194,14.7611,Laze v Tuhinju,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1221,46.2153,14.8911,Motnik,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1222,46.1883,14.8831,Trojane,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1223,46.1769,14.8072,Blagovica,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1225,46.1667,14.7,Lukovica,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1230,46.1377,14.5937,Domžale,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1231,46.1527,14.5952,Ljubljana Črnuče,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1233,46.1519,14.6286,Dob,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1234,46.1669,14.575,Mengeš,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1235,46.1736,14.6122,Radomlje,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1236,46.1333,14.5667,Trzin,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1241,46.2259,14.6121,Kamnik,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1242,46.2619,14.6022,Stahovica,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1251,46.1369,14.745,Moravče,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1252,46.12,14.8392,Vače,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1260,46.0667,14.5833,Ljubljana Polje,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1261,46.0333,14.5833,Ljubljana-Dobrunje,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1262,46.0886,14.6008,Dol pri Ljubljani,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1270,46.0586,14.8225,Litija,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1272,46.0667,14.95,Polšnik,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1273,46.0353,15.0189,Dole pri Litiji,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1274,46.0167,15.0,Gabrovka,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1275,46.0444,14.8442,Šmartno pri Litiji,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1276,45.9717,14.9104,Primskovo,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1281,46.102,14.7858,Kresnice,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1282,46.0898,14.8904,Sava,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1290,45.9556,14.6589,Grosuplje,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1291,45.9833,14.5767,Škofljica,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1292,45.9603,14.5289,Ig,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1293,45.9762,14.6118,Šmarje-Sap,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1294,45.9539,14.7453,Višnja Gora,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1295,45.9383,14.8044,Ivančna Gorica,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1296,45.95,14.8434,Šentvid pri Stični,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1301,45.8813,14.7781,Krka,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1303,45.8614,14.8342,Zagradec,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1310,45.7386,14.7275,Ribnica,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1311,45.8789,14.6153,Turjak,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1312,45.85,14.6942,Videm-Dobrepolje,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1313,45.7817,14.7747,Struge,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1314,45.8486,14.5722,Rob,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1315,45.8322,14.6364,Velike Lašče,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1316,45.782,14.6753,Ortnek,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1317,45.7611,14.6356,Sodražica,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1318,45.8236,14.6531,Loški Potok,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1319,45.9395,14.547,Draga,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1330,45.6433,14.8633,Kočevje,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1331,45.7061,14.7544,Dolenja vas,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1332,45.6722,14.8397,Stara Cerkev,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1336,45.4747,14.8692,Vas,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1337,45.5278,14.6944,Osilnica,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1338,45.5764,14.7969,Kočevska Reka,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1351,46.0333,14.4,Brezovica pri Ljubljani,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1352,45.9569,14.4189,Preserje,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1353,45.9158,14.3631,Borovnica,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1354,46.0236,14.2992,Horjul,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1355,46.0669,14.3161,Polhov Gradec,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1356,46.055,14.4172,Dobrova,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1357,45.9875,14.3989,Notranje Gorice,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1358,46.0167,14.3667,Log pri Brezovici,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1360,45.6922,14.5028,Vrhnika,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1370,45.9144,14.2258,Logatec,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1371,45.9144,14.2258,Logatec,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1372,45.9303,14.1422,Hotedršica,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1373,45.9853,14.1775,Rovte,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1380,45.7931,14.3625,Cerknica,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1381,45.8133,14.3111,Rakek,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1382,45.8181,14.3822,Begunje pri Cerknici,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1384,45.7692,14.4222,Grahovo,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1385,45.7717,14.5058,Nova vas,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1386,45.7148,14.471,Stari trg pri Ložu,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1410,46.1318,14.9969,Zagorje ob Savi,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1411,46.15,14.95,Izlake,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1412,46.1391,14.9629,Kisovec,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1413,46.1792,14.9444,Čemšenik,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1414,46.0714,15.0286,Podkum,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1420,46.155,15.0533,Trbovlje,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1423,46.1131,15.0572,Dobovec,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1430,46.1461,15.0814,Hrastnik,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1431,46.1419,15.1128,Dol pri Hrastniku,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1432,46.0882,15.1728,Zidani Most,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1433,46.0681,15.1839,Radeče,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1434,46.0575,15.2072,Loka pri Zidanem Mostu,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1500,46.0511,14.5051,Ljubljana,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1501,46.0511,14.5051,Ljubljana,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1502,46.0511,14.5051,Ljubljana,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1503,46.0511,14.5051,Ljubljana,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1504,46.0511,14.5051,Ljubljana,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1505,46.0511,14.5051,Ljubljana,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1506,46.0511,14.5051,Ljubljana,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1507,46.0511,14.5051,Ljubljana,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1508,46.0511,14.5051,Ljubljana,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
+1509,46.0511,14.5051,Ljubljana,,,,Slovenia,SI,Europe/Ljubljana,UTC+01:00
