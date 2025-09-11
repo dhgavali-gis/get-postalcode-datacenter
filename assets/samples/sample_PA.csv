@@ -1,0 +1,101 @@
+country_lc,country_en,country_code,postal_code,region_1_en,region_2_en,region_3_en,timezone,utc
+Panama,Panama,PA,1001,Bocas Del Toro,Bocas Del Toro,,America/Panama,UTC -5.0
+Panama,Panama,PA,1002,Bocas Del Toro,Bocas Del Toro,Bastimentos,America/Panama,UTC -5.0
+Panama,Panama,PA,1003,Bocas Del Toro,Bocas Del Toro,Punta Laurel,America/Panama,UTC -5.0
+Panama,Panama,PA,1004,Bocas Del Toro,Bocas Del Toro,Cauchero,America/Panama,UTC -5.0
+Panama,Panama,PA,1005,Bocas Del Toro,Bocas Del Toro,Tierra Oscura,America/Panama,UTC -5.0
+Panama,Panama,PA,1006,Bocas Del Toro,Changuinola,,America/Panama,UTC -5.0
+Panama,Panama,PA,1007,Bocas Del Toro,Changuinola,Almirante,America/Panama,UTC -5.0
+Panama,Panama,PA,1008,Bocas Del Toro,Changuinola,Guabito,America/Panama,UTC -5.0
+Panama,Panama,PA,1009,Bocas Del Toro,Changuinola,El Teribe,America/Panama,UTC -5.0
+Panama,Panama,PA,1010,Bocas Del Toro,Changuinola,Valle Del Risco,America/Panama,UTC -5.0
+Panama,Panama,PA,1011,Bocas Del Toro,Changuinola,El Empalme,America/Panama,UTC -5.0
+Panama,Panama,PA,1012,Bocas Del Toro,Changuinola,Las Tablas,America/Panama,UTC -5.0
+Panama,Panama,PA,1013,Bocas Del Toro,Chiriqui Grande,,America/Panama,UTC -5.0
+Panama,Panama,PA,1014,Bocas Del Toro,Chiriqui Grande,Punta Robalo,America/Panama,UTC -5.0
+Panama,Panama,PA,1015,Bocas Del Toro,Chiriqui Grande,Miramar,America/Panama,UTC -5.0
+Panama,Panama,PA,1016,Bocas Del Toro,Chiriqui Grande,Punta Peña,America/Panama,UTC -5.0
+Panama,Panama,PA,1017,Bocas Del Toro,Chiriqui Grande,Rambala,America/Panama,UTC -5.0
+Panama,Panama,PA,4001,Chiriqui,David,,America/Panama,UTC -5.0
+Panama,Panama,PA,4002,Chiriqui,David,Bijagual,America/Panama,UTC -5.0
+Panama,Panama,PA,4003,Chiriqui,David,Cochea,America/Panama,UTC -5.0
+Panama,Panama,PA,4004,Chiriqui,David,Chiriqui,America/Panama,UTC -5.0
+Panama,Panama,PA,4005,Chiriqui,David,Guaca,America/Panama,UTC -5.0
+Panama,Panama,PA,4006,Chiriqui,David,Las Lomas,America/Panama,UTC -5.0
+Panama,Panama,PA,4007,Chiriqui,David,Pedregal,America/Panama,UTC -5.0
+Panama,Panama,PA,4008,Chiriqui,David,San Carlos,America/Panama,UTC -5.0
+Panama,Panama,PA,4009,Chiriqui,David,San Pablo Nuevo,America/Panama,UTC -5.0
+Panama,Panama,PA,4010,Chiriqui,David,San Pablo Viejo,America/Panama,UTC -5.0
+Panama,Panama,PA,4011,Chiriqui,Baru,Puerto Armuelles,America/Panama,UTC -5.0
+Panama,Panama,PA,4012,Chiriqui,Baru,Limones,America/Panama,UTC -5.0
+Panama,Panama,PA,4013,Chiriqui,Baru,Progreso,America/Panama,UTC -5.0
+Panama,Panama,PA,4014,Chiriqui,Baru,Baco,America/Panama,UTC -5.0
+Panama,Panama,PA,4015,Chiriqui,Baru,Rodolfo Aguilar,America/Panama,UTC -5.0
+Panama,Panama,PA,4016,Chiriqui,Bugaba,La Concepcion,America/Panama,UTC -5.0
+Panama,Panama,PA,4017,Chiriqui,Bugaba,Aserrio De Gariche,America/Panama,UTC -5.0
+Panama,Panama,PA,4018,Chiriqui,Bugaba,Bugaba,America/Panama,UTC -5.0
+Panama,Panama,PA,4019,Chiriqui,Bugaba,Cerro Punta,America/Panama,UTC -5.0
+Panama,Panama,PA,4020,Chiriqui,Bugaba,Gomez,America/Panama,UTC -5.0
+Panama,Panama,PA,4021,Chiriqui,Bugaba,La Estrella,America/Panama,UTC -5.0
+Panama,Panama,PA,4022,Chiriqui,Bugaba,San Andres,America/Panama,UTC -5.0
+Panama,Panama,PA,4023,Chiriqui,Bugaba,Santa Marta,America/Panama,UTC -5.0
+Panama,Panama,PA,4024,Chiriqui,Bugaba,Santa Rosa,America/Panama,UTC -5.0
+Panama,Panama,PA,4025,Chiriqui,Bugaba,Santo Domingo,America/Panama,UTC -5.0
+Panama,Panama,PA,4026,Chiriqui,Bugaba,Sortova,America/Panama,UTC -5.0
+Panama,Panama,PA,4027,Chiriqui,Bugaba,Volcan,America/Panama,UTC -5.0
+Panama,Panama,PA,4028,Chiriqui,Bugaba,El Bongo,America/Panama,UTC -5.0
+Panama,Panama,PA,4029,Chiriqui,Alanje,,America/Panama,UTC -5.0
+Panama,Panama,PA,4030,Chiriqui,Alanje,Divala,America/Panama,UTC -5.0
+Panama,Panama,PA,4031,Chiriqui,Alanje,Guarumal,America/Panama,UTC -5.0
+Panama,Panama,PA,4032,Chiriqui,Alanje,Palo Grande,America/Panama,UTC -5.0
+Panama,Panama,PA,4033,Chiriqui,Alanje,Querevalo,America/Panama,UTC -5.0
+Panama,Panama,PA,4034,Chiriqui,Alanje,Santo Tomas,America/Panama,UTC -5.0
+Panama,Panama,PA,4035,Chiriqui,Alanje,Canta Gallo,America/Panama,UTC -5.0
+Panama,Panama,PA,4036,Chiriqui,Alanje,Nuevo Mexico,America/Panama,UTC -5.0
+Panama,Panama,PA,4037,Chiriqui,Boqueron,,America/Panama,UTC -5.0
+Panama,Panama,PA,4038,Chiriqui,Boqueron,Bagala,America/Panama,UTC -5.0
+Panama,Panama,PA,4039,Chiriqui,Boqueron,Cordillera,America/Panama,UTC -5.0
+Panama,Panama,PA,4040,Chiriqui,Boqueron,Guabal,America/Panama,UTC -5.0
+Panama,Panama,PA,4041,Chiriqui,Boqueron,Guayabal,America/Panama,UTC -5.0
+Panama,Panama,PA,4042,Chiriqui,Boqueron,Paraiso,America/Panama,UTC -5.0
+Panama,Panama,PA,4043,Chiriqui,Boqueron,Pedregal,America/Panama,UTC -5.0
+Panama,Panama,PA,4044,Chiriqui,Boqueron,Tijeras,America/Panama,UTC -5.0
+Panama,Panama,PA,4045,Chiriqui,Renacimiento,Rio Sereno,America/Panama,UTC -5.0
+Panama,Panama,PA,4046,Chiriqui,Renacimiento,Breñon,America/Panama,UTC -5.0
+Panama,Panama,PA,4047,Chiriqui,Renacimiento,Cañas Gordas,America/Panama,UTC -5.0
+Panama,Panama,PA,4048,Chiriqui,Renacimiento,Monte LiRio,America/Panama,UTC -5.0
+Panama,Panama,PA,4049,Chiriqui,Renacimiento,Plaza De Caisan,America/Panama,UTC -5.0
+Panama,Panama,PA,4050,Chiriqui,Renacimiento,Santa Cruz,America/Panama,UTC -5.0
+Panama,Panama,PA,4051,Chiriqui,Renacimiento,Santa Clara,America/Panama,UTC -5.0
+Panama,Panama,PA,4052,Chiriqui,Renacimiento,Dominical,America/Panama,UTC -5.0
+Panama,Panama,PA,4053,Chiriqui,Boquete,Bajo Boquete,America/Panama,UTC -5.0
+Panama,Panama,PA,4054,Chiriqui,Boquete,Caldera,America/Panama,UTC -5.0
+Panama,Panama,PA,4055,Chiriqui,Boquete,Palmira,America/Panama,UTC -5.0
+Panama,Panama,PA,4056,Chiriqui,Boquete,Alto Boquete,America/Panama,UTC -5.0
+Panama,Panama,PA,4057,Chiriqui,Boquete,Jaramillo,America/Panama,UTC -5.0
+Panama,Panama,PA,4058,Chiriqui,Boquete,Los Naranjos,America/Panama,UTC -5.0
+Panama,Panama,PA,4059,Chiriqui,Dolega,,America/Panama,UTC -5.0
+Panama,Panama,PA,4060,Chiriqui,Dolega,Dos Rios,America/Panama,UTC -5.0
+Panama,Panama,PA,4061,Chiriqui,Dolega,Los Anastacios,America/Panama,UTC -5.0
+Panama,Panama,PA,4062,Chiriqui,Dolega,Potrerillos,America/Panama,UTC -5.0
+Panama,Panama,PA,4063,Chiriqui,Dolega,Potrerillos Abajo,America/Panama,UTC -5.0
+Panama,Panama,PA,4064,Chiriqui,Dolega,Rovira,America/Panama,UTC -5.0
+Panama,Panama,PA,4065,Chiriqui,Dolega,Tinajas,America/Panama,UTC -5.0
+Panama,Panama,PA,4066,Chiriqui,Dolega,Los Algarrobos,America/Panama,UTC -5.0
+Panama,Panama,PA,4067,Chiriqui,Gualaca,,America/Panama,UTC -5.0
+Panama,Panama,PA,4068,Chiriqui,Gualaca,Hornito,America/Panama,UTC -5.0
+Panama,Panama,PA,4069,Chiriqui,Gualaca,Los Angeles,America/Panama,UTC -5.0
+Panama,Panama,PA,4070,Chiriqui,Gualaca,Paja De Sombrero,America/Panama,UTC -5.0
+Panama,Panama,PA,4071,Chiriqui,Gualaca,Rincon,America/Panama,UTC -5.0
+Panama,Panama,PA,4072,Chiriqui,Remedios,,America/Panama,UTC -5.0
+Panama,Panama,PA,4073,Chiriqui,Remedios,El Nancito,America/Panama,UTC -5.0
+Panama,Panama,PA,4074,Chiriqui,Remedios,El Porvenir,America/Panama,UTC -5.0
+Panama,Panama,PA,4075,Chiriqui,Remedios,El Puerto,America/Panama,UTC -5.0
+Panama,Panama,PA,4076,Chiriqui,Remedios,Santa Lucia,America/Panama,UTC -5.0
+Panama,Panama,PA,4077,Chiriqui,San Lorenzo,Horconcitos,America/Panama,UTC -5.0
+Panama,Panama,PA,4078,Chiriqui,San Lorenzo,Boca Chica,America/Panama,UTC -5.0
+Panama,Panama,PA,4079,Chiriqui,San Lorenzo,Boca Del Monte,America/Panama,UTC -5.0
+Panama,Panama,PA,4080,Chiriqui,San Lorenzo,San Juan,America/Panama,UTC -5.0
+Panama,Panama,PA,4081,Chiriqui,San Lorenzo,San Lorenzo,America/Panama,UTC -5.0
+Panama,Panama,PA,4082,Chiriqui,Tole,,America/Panama,UTC -5.0
+Panama,Panama,PA,4083,Chiriqui,Tole,Cerro Viejo,America/Panama,UTC -5.0

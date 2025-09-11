@@ -1,0 +1,101 @@
+postal_code,latitude,longitude,region_1_lc,region_1_en,region_2_lc,region_3_lc,country_lc,country_en,country_code,timezone,utc
+10100,13.7333,100.5,กรุงเทพมหานคร,Bangkok,คลองสาน,สมเด็จเจ้าพระยา,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10100,13.7333,100.5,กรุงเทพมหานคร,Bangkok,คลองสาน,สมเด็จเจ้าพระยา,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10110,13.7083,100.4562,กรุงเทพมหานคร,Bangkok,จอมทอง,บางค้อ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10120,13.7083,100.4562,กรุงเทพมหานคร,Bangkok,จอมทอง,บางค้อ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10120,13.7083,100.4562,กรุงเทพมหานคร,Bangkok,จอมทอง,บางค้อ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10140,13.6833,100.5,กรุงเทพมหานคร,Bangkok,ราษฎร์บูรณะ,บางปะกอก,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10140,13.6833,100.5,กรุงเทพมหานคร,Bangkok,ราษฎร์บูรณะ,บางปะกอก,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10150,13.7,100.4667,กรุงเทพมหานคร,Bangkok,จอมทอง,จอมทอง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10150,13.7,100.4667,กรุงเทพมหานคร,Bangkok,จอมทอง,จอมทอง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10160,13.7167,100.4167,กรุงเทพมหานคร,Bangkok,บางแค,บางแคเหนือ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10160,13.6833,100.35,กรุงเทพมหานคร,Bangkok,หนองแขม,หนองแขม,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10160,13.7167,100.4333,กรุงเทพมหานคร,Bangkok,ภาษีเจริญ,บางด้วน,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10170,13.7667,100.45,กรุงเทพมหานคร,Bangkok,ตลิ่งชัน,บางระมาด,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10170,13.7667,100.45,กรุงเทพมหานคร,Bangkok,ตลิ่งชัน,บางระมาด,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10200,13.75,100.5167,กรุงเทพมหานคร,Bangkok,ป้อมปราบศัตรูพ่าย,คลองมหานาค,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10210,14.1833,100.2833,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.ลาดบัวหลวง,หลักชัย,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10220,13.8667,100.6,กรุงเทพมหานคร,Bangkok,บางเขน,อนุสาวรีย์,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10220,13.8667,100.6,กรุงเทพมหานคร,Bangkok,บางเขน,อนุสาวรีย์,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10230,14.3333,99.9167,จ.สุพรรณบุรี,Suphan Buri Province,อ.อู่ทอง,ยุ้งทะลาย,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10230,14.3333,99.9167,จ.สุพรรณบุรี,Suphan Buri Province,อ.อู่ทอง,ยุ้งทะลาย,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10240,13.7667,100.65,กรุงเทพมหานคร,Bangkok,บางกะปิ,คลองจั่น,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10240,13.7667,100.65,กรุงเทพมหานคร,Bangkok,บางกะปิ,คลองจั่น,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10240,13.7667,100.65,กรุงเทพมหานคร,Bangkok,บางกะปิ,คลองจั่น,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10250,13.8583,100.4688,จ.นนทบุรี,Nonthaburi Province,อ.เมืองนนทบุรี,ไทรม้า,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10250,13.8583,100.4688,จ.นนทบุรี,Nonthaburi Province,อ.เมืองนนทบุรี,ไทรม้า,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10260,13.7,100.6,กรุงเทพมหานคร,Bangkok,พระโขนง,พระโขนงใต้,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10260,13.6667,100.5833,จ.สมุทรปราการ,Samut Prakan Province,อ.พระประแดง,สำโรง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10300,13.7833,100.5167,กรุงเทพมหานคร,Bangkok,ดุสิต,ถนนนครไชยศรี,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10310,13.7833,100.5167,กรุงเทพมหานคร,Bangkok,ดุสิต,ถนนนครไชยศรี,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10320,13.7833,100.5167,กรุงเทพมหานคร,Bangkok,ดุสิต,ถนนนครไชยศรี,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10330,13.7833,100.5167,กรุงเทพมหานคร,Bangkok,ดุสิต,ถนนนครไชยศรี,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10400,13.7625,100.531,กรุงเทพมหานคร,Bangkok,ราชเทวี,ทุ่งพญาไท,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10400,13.7625,100.531,กรุงเทพมหานคร,Bangkok,ราชเทวี,ทุ่งพญาไท,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10500,13.7333,100.5333,กรุงเทพมหานคร,Bangkok,ปทุมวัน,ปทุมวัน,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10510,13.8167,100.75,กรุงเทพมหานคร,Bangkok,มีนบุรี,แสนแสบ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10510,13.8167,100.75,กรุงเทพมหานคร,Bangkok,มีนบุรี,แสนแสบ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10520,13.7167,100.7833,กรุงเทพมหานคร,Bangkok,ลาดกระบัง,ลาดกระบัง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10530,13.85,100.8667,กรุงเทพมหานคร,Bangkok,หนองจอก,กระทุ่มราย,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10600,13.7167,100.4833,กรุงเทพมหานคร,Bangkok,ธนบุรี,บุคคโล,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10600,13.7333,100.5,กรุงเทพมหานคร,Bangkok,คลองสาน,สมเด็จเจ้าพระยา,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10600,13.7333,100.4833,กรุงเทพมหานคร,Bangkok,บางกอกใหญ่,วัดท่าพระ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10700,13.75,100.4833,กรุงเทพมหานคร,Bangkok,บางกอกน้อย,บ้านช่างหล่อ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10700,13.75,100.4833,กรุงเทพมหานคร,Bangkok,บางกอกน้อย,บ้านช่างหล่อ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10800,13.8,100.5333,กรุงเทพมหานคร,Bangkok,บางซื่อ,บางซื่อ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10130,13.6667,100.5333,จ.สมุทรปราการ,Samut Prakan Province,อ.พระประแดง,ทรงคนอง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10270,13.6,100.6,จ.สมุทรปราการ,Samut Prakan Province,อ.เมืองสมุทรปราการ,ปากน้ำ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10290,13.8583,100.4688,จ.นนทบุรี,Nonthaburi Province,อ.เมืองนนทบุรี,ไทรม้า,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10540,13.6,100.7167,จ.สมุทรปราการ,Samut Prakan Province,อ.บางพลี,บางพลีใหญ่,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10540,13.6,100.7167,จ.สมุทรปราการ,Samut Prakan Province,อ.บางพลี,บางพลีใหญ่,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+10560,13.5833,100.8167,จ.สมุทรปราการ,Samut Prakan Province,อ.บางเสาธง,บางเสาธง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+11000,13.89,100.4333,จ.นนทบุรี,Nonthaburi Province,อ.บางบัวทอง,บางรักพัฒนา,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+11110,13.9167,100.4333,จ.นนทบุรี,Nonthaburi Province,อ.บางบัวทอง,บางบัวทอง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+11120,13.9167,100.5,จ.นนทบุรี,Nonthaburi Province,อ.ปากเกร็ด,ปากเกร็ด,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+11130,13.8,100.4833,จ.นนทบุรี,Nonthaburi Province,อ.บางกรวย,วัดชลอ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+11140,13.85,100.4333,จ.นนทบุรี,Nonthaburi Province,อ.บางใหญ่,บางเลน,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+11150,13.9667,100.3167,จ.นนทบุรี,Nonthaburi Province,อ.ไทรน้อย,ไทรน้อย,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+12000,14.0433,100.64,จ.ปทุมธานี,Pathum Thani Province,อ.คลองหลวง,คลองสอง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+12110,14.0433,100.64,จ.ปทุมธานี,Pathum Thani Province,อ.คลองหลวง,คลองสอง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+12120,14.0667,100.65,จ.ปทุมธานี,Pathum Thani Province,อ.คลองหลวง,คลองสอง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+12140,14.0333,100.4167,จ.ปทุมธานี,Pathum Thani Province,อ.ลาดหลุมแก้ว,ระแหง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+12150,13.9333,100.75,จ.ปทุมธานี,Pathum Thani Province,อ.ลำลูกกา,ลำลูกกา,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+12160,14.05,100.55,จ.ปทุมธานี,Pathum Thani Province,อ.สามโคก,กระแชง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+12170,14.1333,100.8333,จ.ปทุมธานี,Pathum Thani Province,อ.หนองเสือ,บึงบา,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13000,14.3738,100.5631,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.พระนครศรีอยุธยา,คลองสระบัว,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13110,14.3167,100.4,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.เสนา,สามกอ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13120,14.3619,100.6,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.พระนครศรีอยุธยา,หันตรา,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13130,14.5667,100.7333,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.ท่าเรือ,ท่าเรือ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13140,14.45,100.7167,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.ภาชี,ไผ่ล้อม,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13150,14.5333,100.5333,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.มหาราช,หัวไผ่,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13160,14.2333,100.5833,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.บางปะอิน,บ้านเลน,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13170,14.2167,100.7333,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.วังน้อย,ข้าวงาม,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13190,14.2167,100.5,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.บางไทร,สนามชัย,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13210,14.3667,100.6667,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.อุทัย,อุทัย,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13220,14.45,100.55,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.บางปะหัน,บางปะหัน,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13230,14.1667,100.3167,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.ลาดบัวหลวง,ลาดบัวหลวง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13240,14.6333,100.5667,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.บ้านแพรก,สำพะเนียง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13250,14.4167,100.4667,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.บางบาล,บางบาล,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13260,14.45,100.6167,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.นครหลวง,ปากจั่น,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+13270,14.2167,100.5,จ.พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya Province,อ.บางไทร,สนามชัย,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+14000,14.5833,100.45,จ.อ่างทอง,Ang Thong Province,อ.เมืองอ่างทอง,บางแก้ว,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+14110,14.5833,100.35,จ.อ่างทอง,Ang Thong Province,อ.วิเศษชัยชาญ,ไผ่จำศีล,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+14120,14.6667,100.4167,จ.อ่างทอง,Ang Thong Province,อ.โพธิ์ทอง,อินทประมูล,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+14130,14.4833,100.45,จ.อ่างทอง,Ang Thong Province,อ.ป่าโมก,บางปลากด,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+14140,14.65,100.4667,จ.อ่างทอง,Ang Thong Province,อ.ไชโย,จรเข้ร้อง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+14150,14.5958,100.4208,จ.อ่างทอง,Ang Thong Province,อ.เมืองอ่างทอง,ศาลาแดง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+14160,14.5958,100.4208,จ.อ่างทอง,Ang Thong Province,อ.เมืองอ่างทอง,ศาลาแดง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+15000,14.8,100.6167,จ.ลพบุรี,Lop Buri Province,อ.เมืองลพบุรี,ท่าหิน,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+15110,15.0436,100.5661,จ.ลพบุรี,Lop Buri Province,อ.บ้านหมี่,บ้านกล้วย,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+15120,15.0644,100.7228,จ.ลพบุรี,Lop Buri Province,อ.โคกสำโรง,โคกสำโรง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+15130,14.9833,101.0167,จ.ลพบุรี,Lop Buri Province,อ.พัฒนานิคม,โคกสลุง,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+15130,15.2,101.1333,จ.ลพบุรี,Lop Buri Province,อ.ชัยบาดาล,ลำนารายณ์,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+15140,15.0216,100.7911,จ.ลพบุรี,Lop Buri Province,อ.โคกสำโรง,คลองเกตุ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+15150,14.8167,100.5167,จ.ลพบุรี,Lop Buri Province,อ.ท่าวุ้ง,บางคู้,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+15170,15.0216,100.7911,จ.ลพบุรี,Lop Buri Province,อ.โคกสำโรง,คลองเกตุ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+15190,15.0216,100.7911,จ.ลพบุรี,Lop Buri Province,อ.โคกสำโรง,คลองเกตุ,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+15240,15.35,100.8167,จ.ลพบุรี,Lop Buri Province,อ.โคกเจริญ,โคกแสมสาร,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+15250,15.35,100.8167,จ.ลพบุรี,Lop Buri Province,อ.โคกเจริญ,โคกแสมสาร,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+16000,14.8708,100.375,จ.สิงห์บุรี,Sing Buri Province,อ.เมืองสิงห์บุรี,จักรสีห์,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+16110,15.0,100.3333,จ.สิงห์บุรี,Sing Buri Province,อ.อินทร์บุรี,อินทร์บุรี,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0
+16120,14.8333,100.45,จ.สิงห์บุรี,Sing Buri Province,อ.พรหมบุรี,พรหมบุรี,ประเทศไทย,Thailand,TH,Asia/Bangkok,UTC+7.0

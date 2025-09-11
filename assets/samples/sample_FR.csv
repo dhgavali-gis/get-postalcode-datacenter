@@ -1,0 +1,101 @@
+postcode,latitude,longitude,region_3_en,region_2_en,region_1_en,country_en,country_code,timezone,utc
+88210,48.3436,6.9613,Denipaire,Vosges,Grand Est,France,FR,Europe/Paris,UTC+1
+88240,48.0652,6.1827,Grandrupt-de-Bains,Vosges,Grand Est,France,FR,Europe/Paris,UTC+1
+88240,47.9737,6.1999,Fontenoy-le-Château,Vosges,Grand Est,France,FR,Europe/Paris,UTC+1
+88270,48.2207,6.3047,Bocquegney,Vosges,Grand Est,France,FR,Europe/Paris,UTC+1
+88270,48.2167,6.2333,Madonne-et-Lamerey,Vosges,Grand Est,France,FR,Europe/Paris,UTC+1
+88300,48.25,5.8,Hagnéville-et-Roncourt,Vosges,Grand Est,France,FR,Europe/Paris,UTC+1
+88300,48.3858,5.8082,Attignéville,Vosges,Grand Est,France,FR,Europe/Paris,UTC+1
+88300,48.2606,5.6735,Pompierre,Vosges,Grand Est,France,FR,Europe/Paris,UTC+1
+53380,48.2052,-1.0577,La Croixille,Mayenne,Pays de la Loire,France,FR,Europe/Paris,UTC+1
+53410,48.138,-0.904,Saint-Ouën-des-Toits,Mayenne,Pays de la Loire,France,FR,Europe/Paris,UTC+1
+53640,48.3836,-0.4094,Le Ribay,Mayenne,Pays de la Loire,France,FR,Europe/Paris,UTC+1
+72008,48.0021,0.2025,Le Mans,Sarthe,Pays de la Loire,France,FR,Europe/Paris,UTC+1
+72019,48.0021,0.2025,Le Mans,Sarthe,Pays de la Loire,France,FR,Europe/Paris,UTC+1
+72072,48.0021,0.2025,Le Mans,Sarthe,Pays de la Loire,France,FR,Europe/Paris,UTC+1
+72080,48.0021,0.2025,Le Mans,Sarthe,Pays de la Loire,France,FR,Europe/Paris,UTC+1
+72084,48.0021,0.2025,Le Mans,Sarthe,Pays de la Loire,France,FR,Europe/Paris,UTC+1
+72110,48.2116,0.3775,Jauzé,Sarthe,Pays de la Loire,France,FR,Europe/Paris,UTC+1
+35104,48.112,-1.6743,Rennes,Ille-et-Vilaine,Bretagne,France,FR,Europe/Paris,UTC+1
+35108,48.112,-1.6743,Rennes,Ille-et-Vilaine,Bretagne,France,FR,Europe/Paris,UTC+1
+35111,48.5956,-1.8433,La Fresnais,Ille-et-Vilaine,Bretagne,France,FR,Europe/Paris,UTC+1
+35130,47.9606,-1.1967,Availles-sur-Seiche,Ille-et-Vilaine,Bretagne,France,FR,Europe/Paris,UTC+1
+35160,48.1093,-1.9272,Talensac,Ille-et-Vilaine,Bretagne,France,FR,Europe/Paris,UTC+1
+35290,48.1326,-2.2218,Gaël,Ille-et-Vilaine,Bretagne,France,FR,Europe/Paris,UTC+1
+35330,47.8979,-1.9685,Mernel,Ille-et-Vilaine,Bretagne,France,FR,Europe/Paris,UTC+1
+35370,47.9894,-1.1246,Gennes-sur-Seiche,Ille-et-Vilaine,Bretagne,France,FR,Europe/Paris,UTC+1
+35410,48.0408,-1.5467,Nouvoitou,Ille-et-Vilaine,Bretagne,France,FR,Europe/Paris,UTC+1
+17136,45.7474,-0.6349,Saintes,Charente-Maritime,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+17240,45.4229,-0.6403,Saint-Ciers-du-Taillon,Charente-Maritime,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+17250,45.8822,-0.897,Trizay,Charente-Maritime,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+17250,45.8467,-0.8737,Sainte-Radegonde,Charente-Maritime,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+17270,45.2837,-0.1111,Boresse,Charente-Maritime,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+17370,45.8415,-1.2081,Saint-Trojan-les-Bains,Charente-Maritime,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+17380,46.0506,-0.7063,Chervettes,Charente-Maritime,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+17380,45.999,-0.6247,Saint-Loup,Charente-Maritime,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+17400,45.9869,-0.5219,Saint-Denis-du-Pin,Charente-Maritime,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+24800,45.3892,1.0073,Saint-Sulpice-d'Excideuil,Dordogne,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+33190,44.6239,-0.1181,Saint-Laurent-du-Plan,Gironde,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+33230,45.069,-0.0975,Les Peintures,Gironde,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+33340,45.3271,-0.9131,Prignac-en-Médoc,Gironde,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+33410,44.6364,-0.3185,Cadillac,Gironde,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+33430,44.4316,-0.2786,Lignan-de-Bazas,Gironde,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+33440,44.9274,-0.4914,Ambarès-et-Lagrave,Gironde,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+33460,45.0737,-0.7246,Arcins,Gironde,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+79100,47.039,-0.1181,Tourtenay,Deux-Sèvres,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+79150,47.0546,-0.4275,Genneton,Deux-Sèvres,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+79190,46.1097,0.1574,Montalembert,Deux-Sèvres,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+79190,46.2188,0.066,Pers,Deux-Sèvres,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+79210,46.2341,-0.6253,Le Bourdet,Deux-Sèvres,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+79360,46.1981,-0.4189,Marigny,Deux-Sèvres,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+79370,46.2953,-0.2871,Mougon,Deux-Sèvres,Nouvelle-Aquitaine,France,FR,Europe/Paris,UTC+1
+71490,46.8802,4.5996,Saint-Maurice-lès-Couches,Saône-et-Loire,Bourgogne-Franche-Comté,France,FR,Europe/Paris,UTC+1
+71540,47.0374,4.3394,Cordesse,Saône-et-Loire,Bourgogne-Franche-Comté,France,FR,Europe/Paris,UTC+1
+89113,47.9164,3.4384,Neuilly,Yonne,Bourgogne-Franche-Comté,France,FR,Europe/Paris,UTC+1
+27210,49.3716,0.3907,Boulleville,Eure,Normandie,France,FR,Europe/Paris,UTC+1
+27210,49.3977,0.3201,Fiquefleur-Équainville,Eure,Normandie,France,FR,Europe/Paris,UTC+1
+27210,49.4178,0.3965,Conteville,Eure,Normandie,France,FR,Europe/Paris,UTC+1
+27220,48.8639,1.2453,Coudres,Eure,Normandie,France,FR,Europe/Paris,UTC+1
+27410,48.977,0.7307,Thevray,Eure,Normandie,France,FR,Europe/Paris,UTC+1
+1430,46.1536,5.5106,Peyriat,Ain,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+1450,46.0853,5.4112,Poncin,Ain,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+1460,46.173,5.5513,Brion,Ain,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+1470,45.827,5.4713,Bénonces,Ain,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+1560,46.4489,5.2308,Cormoz,Ain,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+1560,46.3958,5.062,Saint-Jean-sur-Reyssouze,Ain,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+1570,46.3612,4.9058,Manziat,Ain,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+1750,46.3053,4.8412,Saint-Laurent-sur-Saône,Ain,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+38030,45.1787,5.7148,Grenoble,Isère,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+38045,45.1787,5.7148,Grenoble,Isère,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+38067,45.1787,5.7148,Grenoble,Isère,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+38142,45.0705,6.1504,Clavans-en-Haut-Oisans,Isère,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+38210,45.3024,5.4908,Tullins,Isère,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+38250,45.0306,5.5261,Corrençon-en-Vercors,Isère,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+38300,45.556,5.3479,Sérézin-de-la-Tour,Isère,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+38300,45.5866,5.246,Domarin,Isère,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+38340,45.2948,5.6319,Voreppe,Isère,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+38350,44.8718,5.7347,Saint-Arey,Isère,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+38350,44.8683,5.8998,Saint-Michel-en-Beaumont,Isère,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+38380,45.4149,5.8544,Saint-Pierre-d'Entremont,Isère,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+43300,45.116,3.6448,Vissac-Auteyrac,Haute-Loire,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+43340,44.8176,3.791,Rauret,Haute-Loire,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+43380,45.2013,3.421,Cerzat,Haute-Loire,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+43580,44.9701,3.6914,Saint-Didier-d'Allier,Haute-Loire,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+43600,45.2433,4.2334,Sainte-Sigolène,Haute-Loire,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+63190,45.8188,3.4468,Saint-Jean-d'Heurs,Puy-de-Dôme,Auvergne-Rhône-Alpes,France,FR,Europe/Paris,UTC+1
+54330,48.4875,6.0882,Vézelise,Meurthe-et-Moselle,Grand Est,France,FR,Europe/Paris,UTC+1
+67170,48.697,7.6746,Olwisheim,Bas-Rhin,Grand Est,France,FR,Europe/Paris,UTC+1
+67220,48.3345,7.2831,Bassemberg,Bas-Rhin,Grand Est,France,FR,Europe/Paris,UTC+1
+67220,48.3279,7.3357,Saint-Maurice,Bas-Rhin,Grand Est,France,FR,Europe/Paris,UTC+1
+67250,48.9632,7.8453,Lobsann,Bas-Rhin,Grand Est,France,FR,Europe/Paris,UTC+1
+67270,48.7222,7.6358,Wingersheim les Quatre Bans,Bas-Rhin,Grand Est,France,FR,Europe/Paris,UTC+1
+67290,48.9094,7.2802,Frohmuhl,Bas-Rhin,Grand Est,France,FR,Europe/Paris,UTC+1
+67320,48.8435,7.2019,Siewiller,Bas-Rhin,Grand Est,France,FR,Europe/Paris,UTC+1
+67340,48.9331,7.464,Reipertswiller,Bas-Rhin,Grand Est,France,FR,Europe/Paris,UTC+1
+67340,48.8713,7.4414,Weinbourg,Bas-Rhin,Grand Est,France,FR,Europe/Paris,UTC+1
+67340,48.8931,7.5396,Bischholtz,Bas-Rhin,Grand Est,France,FR,Europe/Paris,UTC+1
+67350,48.8252,7.6073,Ringeldorf,Bas-Rhin,Grand Est,France,FR,Europe/Paris,UTC+1
+67390,48.1647,7.544,Marckolsheim,Bas-Rhin,Grand Est,France,FR,Europe/Paris,UTC+1
+67420,48.39,7.1791,Colroy-la-Roche,Bas-Rhin,Grand Est,France,FR,Europe/Paris,UTC+1
+68110,47.7742,7.3518,Illzach,Haut-Rhin,Grand Est,France,FR,Europe/Paris,UTC+1
+68124,48.0854,7.3176,Logelbach,Haut-Rhin,Grand Est,France,FR,Europe/Paris,UTC+1

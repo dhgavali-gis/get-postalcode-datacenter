@@ -1,0 +1,101 @@
+country_lc,country_en,country_code,postal_code,region1_lc,region1_en,region2_lc,region2_en,region3_lc,region3_en,region4_lc,region4_en,timezone,utc,latitude,longitude
+Kenya,Kenya,KE,20424,,Rift Valley,,Bomet,,Bomet East,Oloomirani,Amalo ,Africa/Nairobi,UTC +3.0,-0.8180969,35.4309066
+Kenya,Kenya,KE,20113,,Rift Valley,,Nakuru,,Bahati,,Bahati,Africa/Nairobi,UTC +3.0,-0.151918,36.1449137
+Kenya,Kenya,KE,20601,,Rift Valley,,Samburu,,Samburu North,,Baragoi,Africa/Nairobi,UTC +3.0,1.7808287,36.7925994
+Kenya,Kenya,KE,20400,,Rift Valley,,Bomet,,Bomet East,,Bomet,Africa/Nairobi,UTC +3.0,-0.8180969,35.4309066
+Kenya,Kenya,KE,20101,,Rift Valley,,Nakuru,,Nakuru,,Bondeni,Africa/Nairobi,UTC +3.0,-4.0273333,39.680037
+Kenya,Kenya,KE,20215,,Rift Valley,,Kericho,,Bureti,,Cheborge,Africa/Nairobi,UTC +3.0,-0.5799001,35.1878
+Kenya,Kenya,KE,20401,,Rift Valley,,Bomet,,Chepalungu,,Chebunyo,Africa/Nairobi,UTC +3.0,-1.2857857,36.8200253
+Kenya,Kenya,KE,20222,,Rift Valley,,Nandi,,Nandi,,Chemamul,Africa/Nairobi,UTC +3.0,-1.2857857,36.8200253
+Kenya,Kenya,KE,20407,,Rift Valley,,Narok,,Narok,,Chemaner,Africa/Nairobi,UTC +3.0,-1.2857857,36.8200253
+Kenya,Kenya,KE,20217,,Nairobi,,Nairobi,,Highridge,,Chepsinendet,Africa/Nairobi,UTC +3.0,-1.2626336,36.8156719
+Kenya,Kenya,KE,20410,,Rift Valley,,Bomet,,Kipkoibet,,Cheptalal,Africa/Nairobi,UTC +3.0,-0.8180969,35.4309066
+Kenya,Kenya,KE,20217,,Rift Valley,,Kericho,,Kipkelion East,,Chesinendet,Africa/Nairobi,UTC +3.0,-1.2857857,36.8200253
+Kenya,Kenya,KE,20118,,Rift Valley,,Nakuru,,Dundori,,Dundori,Africa/Nairobi,UTC +3.0,-0.2532731,36.2340388
+Kenya,Kenya,KE,20115,,Rift Valley,,Nakuru,,Njoro,,Egerton,Africa/Nairobi,UTC +3.0,-0.3711419,35.9376681
+Kenya,Kenya,KE,20115,,Rift Valley,,Nakuru,,Njoro,,Egerton University,Africa/Nairobi,UTC +3.0,-0.3711419,35.9376681
+Kenya,Kenya,KE,20102,,Rift Valley,,Nakuru,,Molo,,Elburgon,Africa/Nairobi,UTC +3.0,-0.2995415,35.8023973
+Kenya,Kenya,KE,20103,,Rift Valley,,Baringo,,Eldama Ravine,,Eldama Ravine,Africa/Nairobi,UTC +3.0,0.0502915,35.7281381
+Kenya,Kenya,KE,20119,,Rift Valley,,Nakuru,,Lake View,,Elementatita,Africa/Nairobi,UTC +3.0,-1.242686,36.7734105
+Kenya,Kenya,KE,20140,,Rift Valley,,Baringo,,Emening,,Emining,Africa/Nairobi,UTC +3.0,0.3852093,35.746727
+Kenya,Kenya,KE,20209,,Rift Valley,,Kericho,,Kipkelion West,,Fort Ternan,Africa/Nairobi,UTC +3.0,-0.809106,37.140699
+Kenya,Kenya,KE,20205,,Rift Valley,,Kericho,,Belgut,,Sosiot,Africa/Nairobi,UTC +3.0,-0.3624955,35.1717256
+Kenya,Kenya,KE,20406,,Rift Valley,,Bomet,,Sotik,,Sotik,Africa/Nairobi,UTC +3.0,-0.6875354,35.1134031
+Kenya,Kenya,KE,20604,,Rift Valley,,Samburu,,South Horr,,South Horr,Africa/Nairobi,UTC +3.0,3.3203424,37.0681281
+Kenya,Kenya,KE,20155,,Central,,Nyandarua,,Nyandarua,,South Kinangop,Africa/Nairobi,UTC +3.0,-0.7256199,36.6568935
+Kenya,Kenya,KE,20155,,Central,,Nyandarua,,Nyandarua,,South-Kinangop,Africa/Nairobi,UTC +3.0,-0.7256199,36.6568935
+Kenya,Kenya,KE,20109,,Rift Valley,,Nakuru,,Subukia,,Subukia,Africa/Nairobi,UTC +3.0,-0.0340181,36.1638942
+Kenya,Kenya,KE,20602,,Rift Valley,,Samburu,,Samburu West,,Suguta Mar Mar,Africa/Nairobi,UTC +3.0,0.8256679,36.6902538
+Kenya,Kenya,KE,20151,,Rift Valley,,Nakuru,,Naivasha,,Sulmac,Africa/Nairobi,UTC +3.0,-0.834878,36.3534776
+Kenya,Kenya,KE,20110,,Nairobi,,Nairobi,,Highridge,,Timber Mill Road,Africa/Nairobi,UTC +3.0,-1.2745012,36.8122466
+Kenya,Kenya,KE,20110,,Rift Valley,,Nakuru,,Nakuru,,Timber Mills,Africa/Nairobi,UTC +3.0,-0.2863314,36.0578929
+Kenya,Kenya,KE,20153,,Rift Valley,,Baringo,,Baringo,,Torongo,Africa/Nairobi,UTC +3.0,0.3852093,35.746727
+Kenya,Kenya,KE,20129,,Rift Valley,,Nakuru,,Nakuru,,Turi,Africa/Nairobi,UTC +3.0,-0.2818644,35.7587929
+Kenya,Kenya,KE,20603,,Rift Valley,,Samburu,,Samburu East,,Wamba,Africa/Nairobi,UTC +3.0,0.9787842,37.3252941
+Kenya,Kenya,KE,20305,,Central,,Nyandarua,,Kipipiri,,Wanjohi,Africa/Nairobi,UTC +3.0,-0.3357937,36.5127252
+Kenya,Kenya,KE,20329,,Nairobi,,Nairobi,,Highridge,,Wiyumiririe,Africa/Nairobi,UTC +3.0,-1.2857857,36.8200253
+Kenya,Kenya,KE,10302,,Central,,Kirinyaga,,Ndia,,Baricho,Africa/Nairobi,UTC +3.0,-0.5537465,37.2403593
+Kenya,Kenya,KE,10401,,Rift Valley,,Laikipia,,Dol Dol,,Dol Dol,Africa/Nairobi,UTC +3.0,0.4017233,37.1667349
+Kenya,Kenya,KE,10401,,Rift Valley,,Laikipia,,Laikipia North/East,,Doldol,Africa/Nairobi,UTC +3.0,0.3388525,37.2074331
+Kenya,Kenya,KE,10107,,Central,,Nyeri,,Kieni,,Endarasha,Africa/Nairobi,UTC +3.0,-0.3093033,36.7969505
+Kenya,Kenya,KE,20200,,Rift Valley,,Kericho,,Ainamoi,,Kericho,Africa/Nairobi,UTC +3.0,-0.3682293,35.2854418
+Kenya,Kenya,KE,20131,,Rift Valley,,Nakuru,,Kuresoi South,,Keringet,Africa/Nairobi,UTC +3.0,1.2136112,35.0517305
+Kenya,Kenya,KE,20225,,Rift Valley,,Kericho,,Konoin,,Kimulot,Africa/Nairobi,UTC +3.0,-1.2857857,36.8200253
+Kenya,Kenya,KE,20320,,Rift Valley,,Nakuru,,Naivasha,,Kinamba,Africa/Nairobi,UTC +3.0,-0.716722,36.4318242
+Kenya,Kenya,KE,20202,,Rift Valley,,Kericho,,Kipkelion West,,Kipkelion,Africa/Nairobi,UTC +3.0,-0.2552571,35.4786857
+Kenya,Kenya,KE,20133,,Rift Valley,,Nakuru,,Kiptangwanyi,,Kiptangwanyi,Africa/Nairobi,UTC +3.0,-0.2806559,36.0794189
+Kenya,Kenya,KE,20213,,Rift Valley,,Kericho,,Belgut,,Kiptere,Africa/Nairobi,UTC +3.0,-0.3624955,35.1717256
+Kenya,Kenya,KE,20208,,Rift Valley,,Kericho,,Sigowet,,Kiptugumo,Africa/Nairobi,UTC +3.0,-0.2246245,35.1552357
+Kenya,Kenya,KE,20131,,Rift Valley,,Rift Valley,,Rift Valley,,Kirengeti,Africa/Nairobi,UTC +3.0,1.028265,35.94618
+Kenya,Kenya,KE,20144,,Rift Valley,,Baringo,,Baringo,,Kisanana,Africa/Nairobi,UTC +3.0,-1.2857857,36.8200253
+Kenya,Kenya,KE,20154,,Rift Valley,,Nakuru,,Kuresoi,,Kuresoi,Africa/Nairobi,UTC +3.0,-0.1724141,35.6797784
+Kenya,Kenya,KE,20330,,Rift Valley,,Laikipia,,Laikipia West,,Laikipia Campus,Africa/Nairobi,UTC +3.0,0.0153453,37.0786887
+Kenya,Kenya,KE,20112,,Rift Valley,,Nakuru,,Bahati,,Lanet,Africa/Nairobi,UTC +3.0,,
+Kenya,Kenya,KE,20310,,Rift Valley,,Laikipia,,Nyahururu,,Leshau,Africa/Nairobi,UTC +3.0,-1.2857857,36.8200253
+Kenya,Kenya,KE,20210,,Rift Valley,,Kericho,,Bureti,,Litein,Africa/Nairobi,UTC +3.0,-0.5828383,35.1908492
+Kenya,Kenya,KE,20203,,Rift Valley,,Kericho,,Londiani,,Londian,Africa/Nairobi,UTC +3.0,-0.1666806,35.5915813
+Kenya,Kenya,KE,20203,,Rift Valley,,Kericho,,Kipkelion East,,Londiani,Africa/Nairobi,UTC +3.0,-0.1666806,35.5915813
+Kenya,Kenya,KE,20402,,Rift Valley,,Bomet,,Bomet East,,Longisa,Africa/Nairobi,UTC +3.0,-0.8605299,35.3928617
+Kenya,Kenya,KE,20147,,Rift Valley,,Nakuru,,Naivasha,,Maai Mahiu,Africa/Nairobi,UTC +3.0,-0.9874909,36.5801138
+Kenya,Kenya,KE,20147,,Rift Valley,,Nakuru,,Naivasha,,Mai Mahiu,Africa/Nairobi,UTC +3.0,-0.9847742,36.5838277
+Kenya,Kenya,KE,10210,,Central,,Muranga,,Kigumo /Kandara,,Gacharage-ini,Africa/Nairobi,UTC +3.0,-0.5771446,37.1690712
+Kenya,Kenya,KE,10109,,Central,,Nyeri,,Nyeri South,,Gakere Road,Africa/Nairobi,UTC +3.0,-0.4238448,36.953801
+Kenya,Kenya,KE,10111,,Central,,Nyeri,,Mukurweni,,Gakindu,Africa/Nairobi,UTC +3.0,-1.2911934,36.8839869
+Kenya,Kenya,KE,10232,,Central,,Muranga,,Maragua,,Gakungu,Africa/Nairobi,UTC +3.0,-0.7965265,37.1347649
+Kenya,Kenya,KE,10212,,Central,,Muranga,,Muranga,,Gatara,Africa/Nairobi,UTC +3.0,-0.5478625,37.0838854
+Kenya,Kenya,KE,10114,,Central,,Nyeri,,Nyeri Town,,Gatitu,Africa/Nairobi,UTC +3.0,-0.4678922,36.9986007
+Kenya,Kenya,KE,10115,,Central,,Kiambu,,Gatundu,,Gatondo,Africa/Nairobi,UTC +3.0,-1.2688198,36.8497356
+Kenya,Kenya,KE,10305,,Central,,Nyeri,,Gatura,,Gatugura,Africa/Nairobi,UTC +3.0,-1.1993909,36.6046366
+Kenya,Kenya,KE,10108,,Central,,Nyeri,,Tetu / Nyeri Town,,Giakanja,Africa/Nairobi,UTC +3.0,-1.2857857,36.8200253
+Kenya,Kenya,KE,10213,,Central,,Muranga,,Mathioya,,Gikoe,Africa/Nairobi,UTC +3.0,-1.311652,36.8631963
+Kenya,Kenya,KE,10209,,Central,,Muranga,,Mathioya,,Gitugi,Africa/Nairobi,UTC +3.0,-1.2857857,36.8200253
+Kenya,Kenya,KE,10227,,Central,,Muranga,,Muranga,,Ichichi,Africa/Nairobi,UTC +3.0,-0.7180943,37.1589456
+Kenya,Kenya,KE,10306,,Central,,Kirinyaga,,Ndia,,Kagio,Africa/Nairobi,UTC +3.0,-0.6255042,37.2555643
+Kenya,Kenya,KE,10307,,Central,,Kirinyaga,,Kirinyaga Central,,Kagumo,Africa/Nairobi,UTC +3.0,-0.8031631,36.9340408
+Kenya,Kenya,KE,10206,,Central,,Muranga,,Kiharu,,Kahuhia,Africa/Nairobi,UTC +3.0,,
+Kenya,Kenya,KE,10201,,Central,,Muranga,,Kiharu,,Kahuro,Africa/Nairobi,UTC +3.0,-0.7485945,37.0068826
+Kenya,Kenya,KE,10214,,Nairobi,,Nairobi,,Highridge,,Kahuti,Africa/Nairobi,UTC +3.0,-1.2626336,36.8156719
+Kenya,Kenya,KE,10215,,Nairobi,,Cairo Governorate,,Heliopolis,,Kairo,Africa/Nairobi,UTC +3.0,-0.611962,36.9262677
+Kenya,Kenya,KE,10217,,Central,,Muranga,,Makuyu,,Kamahuha,Africa/Nairobi,UTC +3.0,-0.8991099,37.1870783
+Kenya,Kenya,KE,10141,,Central,,Nyeri,,Nyeri Town,,Kamakwa Rd,Africa/Nairobi,UTC +3.0,-1.3010306,36.814248
+Kenya,Kenya,KE,20116,,Rift Valley,,Nakuru,,Gilgil,,Gilgil,Africa/Nairobi,UTC +3.0,-0.4980018,36.3284263
+Kenya,Kenya,KE,20411,,Rift Valley,,Bomet,,Bomet,,Gorgor,Africa/Nairobi,UTC +3.0,-0.8180969,35.4309066
+Kenya,Kenya,KE,20307,,Rift Valley,,Laikipia,,Laikipia West,,Igwamiti,Africa/Nairobi,UTC +3.0,0.0153453,37.0786887
+Kenya,Kenya,KE,20157,,Rift Valley,,Baringo,,Baringo Central,,Kabarak,Africa/Nairobi,UTC +3.0,-0.2701217,36.0382566
+Kenya,Kenya,KE,20157,,Rift Valley,,Nakuru,,Nakuru,,Kabarak University,Africa/Nairobi,UTC +3.0,-1.2807645,36.817194
+Kenya,Kenya,KE,20114,,Rift Valley,,Nakuru,,Subukia,,Kabazi,Africa/Nairobi,UTC +3.0,-0.0768609,36.171467
+Kenya,Kenya,KE,20201,,Rift Valley,,Kericho,,Belgut,,Kabianga,Africa/Nairobi,UTC +3.0,-0.3624955,35.1717256
+Kenya,Kenya,KE,20304,,Central,,Nyandarua,,Ndaragwa,,Kaheho,Africa/Nairobi,UTC +3.0,-0.0587899,36.5278259
+Kenya,Kenya,KE,20218,,Rift Valley,,Bomet,,Bomet,,Kamaget,Africa/Nairobi,UTC +3.0,-0.8180969,35.4309066
+Kenya,Kenya,KE,20134,,Central,,Nyeri,,MUKURWE-INI,,Kamara,Africa/Nairobi,UTC +3.0,-0.567623,36.9969313
+Kenya,Kenya,KE,20132,,Rift Valley,,Nakuru,,Nakuru,,Kamwaura,Africa/Nairobi,UTC +3.0,-0.2806559,36.0794189
+Kenya,Kenya,KE,20214,,Rift Valley,,Kericho,,Bureti,,Kapkatet,Africa/Nairobi,UTC +3.0,-0.6293569,35.1964482
+Kenya,Kenya,KE,20219,,Nairobi,,Nairobi,,Highridge,,Kapkelet,Africa/Nairobi,UTC +3.0,-1.2626336,36.8156719
+Kenya,Kenya,KE,20206,,Nairobi,,Nairobi,,Highridge,,Kapkugerwet,Africa/Nairobi,UTC +3.0,-1.2857857,36.8200253
+Kenya,Kenya,KE,20211,,Rift Valley,,Kericho,,Ainamoi,,Kapsoit,Africa/Nairobi,UTC +3.0,,
+Kenya,Kenya,KE,20207,,Rift Valley,,Kericho,,Kericho,,Kapsuser,Africa/Nairobi,UTC +3.0,-1.2857857,36.8200253
+Kenya,Kenya,KE,20221,,Rift Valley,,Bomet,,Bomet,,Kaptebengwet,Africa/Nairobi,UTC +3.0,-0.8180969,35.4309066
+Kenya,Kenya,KE,20328,,Central,,Nyandarua,,Ndaragwa,,Karandi,Africa/Nairobi,UTC +3.0,-0.0587899,36.5278259
+Kenya,Kenya,KE,20220,,Rift Valley,,Kericho,,Kipkelion East,,Kedowa,Africa/Nairobi,UTC +3.0,,
+Kenya,Kenya,KE,20501,,Rift Valley,,Narok,,Narok South,,Keekorok,Africa/Nairobi,UTC +3.0,-1.2806973,36.8238833
+Kenya,Kenya,KE,20314,,Rift Valley,,Laikipia,,Nyahururu,,Mairo Inya,Africa/Nairobi,UTC +3.0,0.0413677,36.4245486
